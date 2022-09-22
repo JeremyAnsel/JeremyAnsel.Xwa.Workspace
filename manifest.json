@@ -1,0 +1,557 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/projects/jeremyansel-xwa-workspace/JeremyAnsel.Xwa.Workspace/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaConvert.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaConvert.html",
+          "hash": "MzA0T8pjRGCBazWp2/D/gSPh34fOEmTXEbZuCTrrxmc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGender.html",
+          "hash": "BxOyqO6iHHrCUFvc55+IHVJDmPCtl+wUwxL7lKD7d7I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderEntry.html",
+          "hash": "2RIGsOHj5kwfcpfDMcKnP4HVXNjc0jt3FnFwYtfgKZc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html",
+          "hash": "q+EehlbAX2806WvqjrqczctCkPKY7jFEMCvxKie6Z6g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameEntry.html",
+          "hash": "NRa3LCH8haZ0lIEA1MR1ileduNoEE9YkmTDgwkkaF2o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html",
+          "hash": "zfYqB9YJkC+6YM3Tbjyqg7Jtm4/wDqgl8rg1oOtPNVI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameEntry.html",
+          "hash": "C0ZzYy3kalW4Aq21aRoyhFC7Yx2/5TATzsyVgayxc4U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html",
+          "hash": "x6HeA+icpBZhtYEBz/vLhTAZDf1t2UXxOB5W/6xYz/c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html",
+          "hash": "qmISxRoEz1YslIYB+HivNx5aDM3ny1bHpOQXZVharE0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftLaser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftLaser.html",
+          "hash": "jbcz7+88B/iU2isK9dszsmSWuYi8RAah/zM9rpCq7vU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html",
+          "hash": "VjiewHHn/8il3ay3AkdPQNh6KkA5m1cBs5WZEEndU9I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTurret.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTurret.html",
+          "hash": "5jwsNcC2ZAiVbzyoqhu4VKayeJFpZtRive5Zt7UeW7g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftWarhead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftWarhead.html",
+          "hash": "M2+9vYdxD/gxOFKoJO9MMqv8OS1nr2DGx+SbRzfvIa8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEnableOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEnableOptions.html",
+          "hash": "JdehX4sbgvAvTEf+7Z8Np8obZ5dyoZUu5S8a6mglGWc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html",
+          "hash": "bQBWw3mK0nIyuVWius6Q9ejELR1Y/2OZJ652Slx+I1g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectGameOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectGameOptions.html",
+          "hash": "HBKX7hXkzCvWf6ryG9iVo95SqNVvOtRLBSLAzLVe6EE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectRessourceOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectRessourceOptions.html",
+          "hash": "m1BdmTKXb0eeQWbkkZbe/zO0Zt2nkt7x5TBfZSzxW30="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html",
+          "hash": "CSTIltB71n7CHaspIRNFbPo5cDWl5uJ+luWIXVmAvsg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html",
+          "hash": "XzmoYc3uEvVLd6K9bhQQoI8mopiv/+mmgacyxtAPdsk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html",
+          "hash": "3J8yVw1KLbO8VBVTbKjyrHTAmi0qbywQG/8pQSpDYO0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.html",
+          "hash": "FaVQgwmL1FkPFPChFU/chDYC9XDFp4h86b013J+WTgM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponEntry.html",
+          "hash": "H9CsKoKbO6oHs2jBUlM60uivgoxoHy73t9bHitme5/M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html",
+          "hash": "P19ptBqhPBYt3RNjQxKHfW+D98XidCoJ9gmzj3gTD6c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListEntry.html",
+          "hash": "lAsj71oM61KQIX+AfFPKc/NT6BsEaCn2MVS3n2xVQ0Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html",
+          "hash": "9q1mUIQdTppAhSAMEP79WUbK5oQgJCaIPq9q408Mo/g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaGunConvergence.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaGunConvergence.html",
+          "hash": "bZST+Go/dhrnUd37t59y22vupu+RIOvYG0GkVw0XqHY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaObjectCategory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaObjectCategory.html",
+          "hash": "rTEapXSoNDa7xtZ6Zhm6Zm5aRRGCa1p31AKoUAL5GTU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipCategory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipCategory.html",
+          "hash": "DbZlc2LARO8ZQ+d8gdnbz/5q63QAGRugrxf1J18QQzA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListCraftType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListCraftType.html",
+          "hash": "NXxOsE2T5rnBjAxzrzM33+IukGCluTGKTV+L4DHro6g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListEntry.html",
+          "hash": "MkrjhdCEk5ds047MAQzyTYf91t+dOLM4GEf+/O7t0WY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html",
+          "hash": "pJzm5EZ+8QG6ni9cZIuhHQdRrOsU8MBESaCSsppADv0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFlyableOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFlyableOption.html",
+          "hash": "ehQgmhe1MDJ/SA6VS6Al5ulDYWXBdKSaSO12D+biqEc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListKnownOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListKnownOption.html",
+          "hash": "2zKDQE6XbKL+OO80e4WWpsG0Xw4HJSe20E6xRh14m/k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListSkirmishOption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListSkirmishOption.html",
+          "hash": "CuQK8Yal3pT8k4qAOktsBd4oVXmUmeaCf1aDp1+MCwI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShpFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html",
+          "hash": "odfS5DQ3HRQx+YxAMoqE96dk5yp+Ix9JKj7j2+GUeQg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescEntry.html",
+          "hash": "oGC/+m259NTG3jd5Grz7pdCul7VCMPLQ4Nq4OR6NjR0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html",
+          "hash": "fcl0WuhNDXDF9NAd8UTiYhb+uCcs6kshAisL1jjeXyU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html",
+          "hash": "LmH0gRDMd9RAX+9pj6w+WHrK06B5BuqJYFDgpCTh+FY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.html",
+          "hash": "mCy1yve3Z0ubS/KQlHYaY4A3pVNPY7b0Rz90T9B5UjY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "QTf6rU+qn5ZrJ06dxtMXreCNvnQCLGL/f50R2K0HIpE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "kViEKkFyQZi+gRmva50zUB2aPD9g8/yjZsFpyNsytHA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 2,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 39,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
