@@ -9,8 +9,7 @@
         "resource": {
           "relative_path": "index.json"
         }
-      },
-      "is_incremental": false
+      }
     },
     {
       "type": "ManagedReference",
@@ -18,10 +17,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaConvert.html",
-          "hash": "MzA0T8pjRGCBazWp2/D/gSPh34fOEmTXEbZuCTrrxmc="
+          "hash": "GWbBHWcrm6XRCD7qnZFXHo0YbN4EgKhlLySvDKs+/Sc="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -30,10 +28,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGender.html",
-          "hash": "BxOyqO6iHHrCUFvc55+IHVJDmPCtl+wUwxL7lKD7d7I="
+          "hash": "/8Ln3xFnP32kpu+64weBpSFm+yKT8Cn9IeZZsTLR1Gs="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -42,10 +39,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderEntry.html",
-          "hash": "2RIGsOHj5kwfcpfDMcKnP4HVXNjc0jt3FnFwYtfgKZc="
+          "hash": "GI1fWCVEkhQxmgwi5AYyrAXCMIWx8XH9vd8kuOlHBuE="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -54,10 +50,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html",
-          "hash": "q+EehlbAX2806WvqjrqczctCkPKY7jFEMCvxKie6Z6g="
+          "hash": "yLt9JPAI227n/hGGDy8jmgeZzvkd9tPYQ+Lv36eJHq0="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -66,10 +61,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameEntry.html",
-          "hash": "NRa3LCH8haZ0lIEA1MR1ileduNoEE9YkmTDgwkkaF2o="
+          "hash": "uGvGWkAhDeCtjPkotIBN2LOtntZ8+jU43/13lSnTEyU="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -78,10 +72,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html",
-          "hash": "zfYqB9YJkC+6YM3Tbjyqg7Jtm4/wDqgl8rg1oOtPNVI="
+          "hash": "4AKddRyNIRj1KTSfx18FBS+wPCff5O1jgRxZTPk2C/A="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -90,10 +83,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameEntry.html",
-          "hash": "C0ZzYy3kalW4Aq21aRoyhFC7Yx2/5TATzsyVgayxc4U="
+          "hash": "I4C+4dzaCeZxSZajcBNyktpl1kJH5yDIu4qfNlbQnmo="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -102,10 +94,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html",
-          "hash": "x6HeA+icpBZhtYEBz/vLhTAZDf1t2UXxOB5W/6xYz/c="
+          "hash": "4R2pr/n4b8HuOuh+14mx/gFSzhqidX7YZiXBRx26UPI="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -114,10 +105,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html",
-          "hash": "qmISxRoEz1YslIYB+HivNx5aDM3ny1bHpOQXZVharE0="
+          "hash": "gyDnmcb9AdoTlq/KZvq+A4Gax6BdcE+CkUOYyLtjdqA="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -126,10 +116,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftLaser.html",
-          "hash": "jbcz7+88B/iU2isK9dszsmSWuYi8RAah/zM9rpCq7vU="
+          "hash": "BuTync/1LUoBKAE89l9JFypplV6+s6jdamY9NsGx0YM="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -138,10 +127,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html",
-          "hash": "VjiewHHn/8il3ay3AkdPQNh6KkA5m1cBs5WZEEndU9I="
+          "hash": "iFlEhowIk8Z2WEKDN6na4srDL5Kidl+3ew2fQ9zLmAg="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -150,10 +138,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTurret.html",
-          "hash": "5jwsNcC2ZAiVbzyoqhu4VKayeJFpZtRive5Zt7UeW7g="
+          "hash": "XsSzT2mrpag2MQ88k2JPk6eK97C+xgIoy/bpwqzwyu0="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -162,10 +149,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftWarhead.html",
-          "hash": "M2+9vYdxD/gxOFKoJO9MMqv8OS1nr2DGx+SbRzfvIa8="
+          "hash": "gVugzLOLUnE7MJW59xLqbm/tdUc+AwHaChXE/tntMzc="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -174,10 +160,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEnableOptions.html",
-          "hash": "JdehX4sbgvAvTEf+7Z8Np8obZ5dyoZUu5S8a6mglGWc="
+          "hash": "waoo2Ixu/ReiOCkaP6UrE5es09DC2nRGOssdPChFc04="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -186,10 +171,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html",
-          "hash": "bQBWw3mK0nIyuVWius6Q9ejELR1Y/2OZJ652Slx+I1g="
+          "hash": "331agPY4JSVIWZoWRzB7Eed0K2RJhUyons3VUfckpj4="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -198,10 +182,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectGameOptions.html",
-          "hash": "HBKX7hXkzCvWf6ryG9iVo95SqNVvOtRLBSLAzLVe6EE="
+          "hash": "Vyu3jWVDyHLdm+NBSfF9rsapYRZYmYBdWndU777Vop8="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -210,10 +193,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectRessourceOptions.html",
-          "hash": "m1BdmTKXb0eeQWbkkZbe/zO0Zt2nkt7x5TBfZSzxW30="
+          "hash": "51nOLVrGr0Tqfj2rYr096G/puzKF6kJxV0B5pJdXmAk="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -222,10 +204,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html",
-          "hash": "CSTIltB71n7CHaspIRNFbPo5cDWl5uJ+luWIXVmAvsg="
+          "hash": "42+mFh8NZEGlBJ7TC4KnQJc0eDm6Z6EeHTGDbzvQ8mU="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -234,10 +215,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html",
-          "hash": "XzmoYc3uEvVLd6K9bhQQoI8mopiv/+mmgacyxtAPdsk="
+          "hash": "dk8hHD8v47+qPYkU+FHBQTVb/Va7XpiJghh2+CQq844="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -246,10 +226,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html",
-          "hash": "3J8yVw1KLbO8VBVTbKjyrHTAmi0qbywQG/8pQSpDYO0="
+          "hash": "serLvN3PtDh+snwF+my7XyZQGoP517m91ZLv86VIxHg="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -258,10 +237,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.html",
-          "hash": "FaVQgwmL1FkPFPChFU/chDYC9XDFp4h86b013J+WTgM="
+          "hash": "EBEuHFS4rliIjtLdXDBNoEtwLQ32sUrtnek1v/BAiEk="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -270,10 +248,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponEntry.html",
-          "hash": "H9CsKoKbO6oHs2jBUlM60uivgoxoHy73t9bHitme5/M="
+          "hash": "CMwrLlu7Y1Vu4AlWIduQ7aXhJX6TkCwUdtrsMgTq0JQ="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -282,10 +259,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html",
-          "hash": "P19ptBqhPBYt3RNjQxKHfW+D98XidCoJ9gmzj3gTD6c="
+          "hash": "aK0nnx7RG/4Ux0TCYuPFer28/S7LLWqPT+d0Jebr4HQ="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -294,10 +270,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListEntry.html",
-          "hash": "lAsj71oM61KQIX+AfFPKc/NT6BsEaCn2MVS3n2xVQ0Q="
+          "hash": "EfPEorn44XUSOe1/KZf5trmdf1c8Vf79jpr5EdsQq3c="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -306,10 +281,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html",
-          "hash": "9q1mUIQdTppAhSAMEP79WUbK5oQgJCaIPq9q408Mo/g="
+          "hash": "gJebirvr4KRx9EGhfBZCj5QHtZtht6yI/Wq28rhuOWU="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -318,10 +292,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaGunConvergence.html",
-          "hash": "bZST+Go/dhrnUd37t59y22vupu+RIOvYG0GkVw0XqHY="
+          "hash": "ixHvUeZLkND7Eq4hk2XuSRethPO8vGvb6k5TcnTVh+c="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -330,10 +303,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaObjectCategory.html",
-          "hash": "rTEapXSoNDa7xtZ6Zhm6Zm5aRRGCa1p31AKoUAL5GTU="
+          "hash": "V3nkBX1kJD4qkv/sKq1ZkSWsWHsCrmMAIeemGHS28i4="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -342,10 +314,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipCategory.html",
-          "hash": "DbZlc2LARO8ZQ+d8gdnbz/5q63QAGRugrxf1J18QQzA="
+          "hash": "v096yp4dgcsDwOkbisr2y5H1QUwtc5blA4dDhWARpOo="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -354,10 +325,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListCraftType.html",
-          "hash": "NXxOsE2T5rnBjAxzrzM33+IukGCluTGKTV+L4DHro6g="
+          "hash": "7OrSACcCgdmFTPBwZzV/Tn7i8C2X9Y7cak8XgpoJV5A="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -366,10 +336,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListEntry.html",
-          "hash": "MkrjhdCEk5ds047MAQzyTYf91t+dOLM4GEf+/O7t0WY="
+          "hash": "meLFK24sDSanACMW06+bqR5C1u/VEzVLHTVMEtpoMC4="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -378,10 +347,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html",
-          "hash": "pJzm5EZ+8QG6ni9cZIuhHQdRrOsU8MBESaCSsppADv0="
+          "hash": "zxmi6LI2FYo53nFpjWzQy2u7iR3uX7jyR/k5iWXYV9I="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -390,10 +358,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFlyableOption.html",
-          "hash": "ehQgmhe1MDJ/SA6VS6Al5ulDYWXBdKSaSO12D+biqEc="
+          "hash": "a0PB/8M3hoIv3MYaYdRN33nyq7X0jIk6drScyJF9jrE="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -402,10 +369,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListKnownOption.html",
-          "hash": "2zKDQE6XbKL+OO80e4WWpsG0Xw4HJSe20E6xRh14m/k="
+          "hash": "pUX9dbPqZiK0eovbfnSFtD522l+uI0kR/bL8GkwBzPI="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -414,10 +380,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListSkirmishOption.html",
-          "hash": "CuQK8Yal3pT8k4qAOktsBd4oVXmUmeaCf1aDp1+MCwI="
+          "hash": "8PZKs3C7ODNiki3boQTmGoxWEiFPqPeplvf76kllQ0s="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -426,10 +391,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html",
-          "hash": "odfS5DQ3HRQx+YxAMoqE96dk5yp+Ix9JKj7j2+GUeQg="
+          "hash": "89t7BCiYuOuu8MXX6QZDKL9bsAETOFmrrGoti6M743A="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -438,10 +402,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescEntry.html",
-          "hash": "oGC/+m259NTG3jd5Grz7pdCul7VCMPLQ4Nq4OR6NjR0="
+          "hash": "jQksmmrp8IPQuoTaKxZM3oQEB9qG8o/IvR9xGzqvg3E="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -450,10 +413,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html",
-          "hash": "fcl0WuhNDXDF9NAd8UTiYhb+uCcs6kshAisL1jjeXyU="
+          "hash": "2SXQj7y2ph0RfD4JLem/3KQbVeBf8NaRU7PuahTcqgA="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -462,10 +424,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html",
-          "hash": "LmH0gRDMd9RAX+9pj6w+WHrK06B5BuqJYFDgpCTh+FY="
+          "hash": "vWAPmaVpWrJYXLZMPcxCKwStXcPRFv1Z7RUAnNGIfi8="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -474,10 +435,9 @@
       "output": {
         ".html": {
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.html",
-          "hash": "mCy1yve3Z0ubS/KQlHYaY4A3pVNPY7b0Rz90T9B5UjY="
+          "hash": "5xmpXP2+6McFjhXr30F8xQ+5XI1N394ivzsy8nBlcJA="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -486,10 +446,9 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "QTf6rU+qn5ZrJ06dxtMXreCNvnQCLGL/f50R2K0HIpE="
+          "hash": "41xeFkWJt/jpcQ+3LpS02uRFyeG0aC+IqLyXj8LTBcU="
         }
       },
-      "is_incremental": false,
       "version": ""
     },
     {
@@ -498,54 +457,10 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "kViEKkFyQZi+gRmva50zUB2aPD9g8/yjZsFpyNsytHA="
+          "hash": "9QMFoLc1CSoA94jUsFM5fiV4yd2THUIlc+pFbIWm4+Q="
         }
       },
-      "is_incremental": false,
       "version": ""
-    }
-  ],
-  "incremental_info": [
-    {
-      "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because last build info is missing.",
-        "incrementalPhase": "build",
-        "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "NoAvailableBuildCache"
-      },
-      "processors": {
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 2,
-          "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 39,
-          "skipped_file_count": 0
-        },
-        "TocDocumentProcessor": {
-          "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
-          "incrementalPhase": "build",
-          "total_file_count": 0,
-          "skipped_file_count": 0
-        }
-      }
-    },
-    {
-      "status": {
-        "can_incremental": false,
-        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
-        "incrementalPhase": "postProcessing",
-        "total_file_count": 0,
-        "skipped_file_count": 0
-      },
-      "processors": {}
     }
   ],
   "version_info": {},

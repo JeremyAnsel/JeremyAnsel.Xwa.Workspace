@@ -14,11 +14,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaConvert
   nameWithType: XwaConvert
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMeters(System.Single)
-  name: FromMeters(Single)
+  name: FromMeters(float)
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_FromMeters_System_Single_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaConvert.FromMeters(System.Single)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMeters(System.Single)
-  nameWithType: XwaConvert.FromMeters(Single)
+  name.vb: FromMeters(Single)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMeters(float)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMeters(Single)
+  nameWithType: XwaConvert.FromMeters(float)
+  nameWithType.vb: XwaConvert.FromMeters(Single)
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMeters*
   name: FromMeters
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_FromMeters_
@@ -27,11 +30,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMeters
   nameWithType: XwaConvert.FromMeters
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMglt(System.Int32)
-  name: FromMglt(Int32)
+  name: FromMglt(int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_FromMglt_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaConvert.FromMglt(System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMglt(System.Int32)
-  nameWithType: XwaConvert.FromMglt(Int32)
+  name.vb: FromMglt(Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMglt(int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMglt(Integer)
+  nameWithType: XwaConvert.FromMglt(int)
+  nameWithType.vb: XwaConvert.FromMglt(Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMglt*
   name: FromMglt
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_FromMglt_
@@ -40,11 +46,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromMglt
   nameWithType: XwaConvert.FromMglt
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.FromRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory,System.Int32)
-  name: FromRu(XwaShipCategory, Int32)
+  name: FromRu(XwaShipCategory, int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_FromRu_JeremyAnsel_Xwa_Workspace_XwaShipCategory_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaConvert.FromRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory,System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory, System.Int32)
-  nameWithType: XwaConvert.FromRu(XwaShipCategory, Int32)
+  name.vb: FromRu(XwaShipCategory, Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory, int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaConvert.FromRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory, Integer)
+  nameWithType: XwaConvert.FromRu(XwaShipCategory, int)
+  nameWithType.vb: XwaConvert.FromRu(XwaShipCategory, Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.FromRu*
   name: FromRu
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_FromRu_
@@ -53,11 +62,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromRu
   nameWithType: XwaConvert.FromRu
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.FromSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory,System.Int32)
-  name: FromSbd(XwaShipCategory, Int32)
+  name: FromSbd(XwaShipCategory, int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_FromSbd_JeremyAnsel_Xwa_Workspace_XwaShipCategory_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaConvert.FromSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory,System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory, System.Int32)
-  nameWithType: XwaConvert.FromSbd(XwaShipCategory, Int32)
+  name.vb: FromSbd(XwaShipCategory, Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory, int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaConvert.FromSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory, Integer)
+  nameWithType: XwaConvert.FromSbd(XwaShipCategory, int)
+  nameWithType.vb: XwaConvert.FromSbd(XwaShipCategory, Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.FromSbd*
   name: FromSbd
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_FromSbd_
@@ -66,11 +78,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.FromSbd
   nameWithType: XwaConvert.FromSbd
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToDpf(System.Int32,System.Int32)
-  name: ToDpf(Int32, Int32)
+  name: ToDpf(int, int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToDpf_System_Int32_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaConvert.ToDpf(System.Int32,System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToDpf(System.Int32, System.Int32)
-  nameWithType: XwaConvert.ToDpf(Int32, Int32)
+  name.vb: ToDpf(Integer, Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToDpf(int, int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaConvert.ToDpf(Integer, Integer)
+  nameWithType: XwaConvert.ToDpf(int, int)
+  nameWithType.vb: XwaConvert.ToDpf(Integer, Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToDpf*
   name: ToDpf
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToDpf_
@@ -79,11 +94,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToDpf
   nameWithType: XwaConvert.ToDpf
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMeters(System.Single)
-  name: ToMeters(Single)
+  name: ToMeters(float)
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToMeters_System_Single_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaConvert.ToMeters(System.Single)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMeters(System.Single)
-  nameWithType: XwaConvert.ToMeters(Single)
+  name.vb: ToMeters(Single)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMeters(float)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMeters(Single)
+  nameWithType: XwaConvert.ToMeters(float)
+  nameWithType.vb: XwaConvert.ToMeters(Single)
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMeters*
   name: ToMeters
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToMeters_
@@ -92,11 +110,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMeters
   nameWithType: XwaConvert.ToMeters
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMglt(System.Int32)
-  name: ToMglt(Int32)
+  name: ToMglt(int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToMglt_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaConvert.ToMglt(System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMglt(System.Int32)
-  nameWithType: XwaConvert.ToMglt(Int32)
+  name.vb: ToMglt(Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMglt(int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMglt(Integer)
+  nameWithType: XwaConvert.ToMglt(int)
+  nameWithType.vb: XwaConvert.ToMglt(Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMglt*
   name: ToMglt
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToMglt_
@@ -105,11 +126,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToMglt
   nameWithType: XwaConvert.ToMglt
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory,System.Int32)
-  name: ToRu(XwaShipCategory, Int32)
+  name: ToRu(XwaShipCategory, int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToRu_JeremyAnsel_Xwa_Workspace_XwaShipCategory_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaConvert.ToRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory,System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory, System.Int32)
-  nameWithType: XwaConvert.ToRu(XwaShipCategory, Int32)
+  name.vb: ToRu(XwaShipCategory, Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory, int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaConvert.ToRu(JeremyAnsel.Xwa.Workspace.XwaShipCategory, Integer)
+  nameWithType: XwaConvert.ToRu(XwaShipCategory, int)
+  nameWithType.vb: XwaConvert.ToRu(XwaShipCategory, Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToRu*
   name: ToRu
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToRu_
@@ -118,11 +142,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToRu
   nameWithType: XwaConvert.ToRu
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory,System.Int32)
-  name: ToSbd(XwaShipCategory, Int32)
+  name: ToSbd(XwaShipCategory, int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToSbd_JeremyAnsel_Xwa_Workspace_XwaShipCategory_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaConvert.ToSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory,System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory, System.Int32)
-  nameWithType: XwaConvert.ToSbd(XwaShipCategory, Int32)
+  name.vb: ToSbd(XwaShipCategory, Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaConvert.ToSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory, int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaConvert.ToSbd(JeremyAnsel.Xwa.Workspace.XwaShipCategory, Integer)
+  nameWithType: XwaConvert.ToSbd(XwaShipCategory, int)
+  nameWithType.vb: XwaConvert.ToSbd(XwaShipCategory, Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaConvert.ToSbd*
   name: ToSbd
   href: api/JeremyAnsel.Xwa.Workspace.XwaConvert.html#JeremyAnsel_Xwa_Workspace_XwaConvert_ToSbd_
@@ -222,30 +249,39 @@ references:
   name: XwaCraftGenderFile()
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftGenderFile__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.XwaCraftGenderFile()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.New()
   nameWithType: XwaCraftGenderFile.XwaCraftGenderFile()
+  nameWithType.vb: XwaCraftGenderFile.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.#ctor(System.String)
-  name: XwaCraftGenderFile(String)
+  name: XwaCraftGenderFile(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftGenderFile__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.XwaCraftGenderFile(System.String)
-  nameWithType: XwaCraftGenderFile.XwaCraftGenderFile(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.XwaCraftGenderFile(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.New(String)
+  nameWithType: XwaCraftGenderFile.XwaCraftGenderFile(string)
+  nameWithType.vb: XwaCraftGenderFile.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.#ctor(System.String[])
-  name: XwaCraftGenderFile(String[])
+  name: XwaCraftGenderFile(string[])
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftGenderFile__ctor_System_String___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.#ctor(System.String[])
-  name.vb: XwaCraftGenderFile(String())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.XwaCraftGenderFile(System.String[])
-  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.XwaCraftGenderFile(System.String())
-  nameWithType: XwaCraftGenderFile.XwaCraftGenderFile(String[])
-  nameWithType.vb: XwaCraftGenderFile.XwaCraftGenderFile(String())
+  name.vb: New(String())
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.XwaCraftGenderFile(string[])
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.New(String())
+  nameWithType: XwaCraftGenderFile.XwaCraftGenderFile(string[])
+  nameWithType.vb: XwaCraftGenderFile.New(String())
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.#ctor*
   name: XwaCraftGenderFile
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftGenderFile__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.XwaCraftGenderFile
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.New
   nameWithType: XwaCraftGenderFile.XwaCraftGenderFile
+  nameWithType.vb: XwaCraftGenderFile.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Entries
   name: Entries
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftGenderFile_Entries
@@ -266,11 +302,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.EntryCount
   nameWithType: XwaCraftGenderFile.EntryCount
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.GetOrAddEntry(System.Int32)
-  name: GetOrAddEntry(Int32)
+  name: GetOrAddEntry(int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftGenderFile_GetOrAddEntry_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.GetOrAddEntry(System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.GetOrAddEntry(System.Int32)
-  nameWithType: XwaCraftGenderFile.GetOrAddEntry(Int32)
+  name.vb: GetOrAddEntry(Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.GetOrAddEntry(int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.GetOrAddEntry(Integer)
+  nameWithType: XwaCraftGenderFile.GetOrAddEntry(int)
+  nameWithType.vb: XwaCraftGenderFile.GetOrAddEntry(Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.GetOrAddEntry*
   name: GetOrAddEntry
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftGenderFile_GetOrAddEntry_
@@ -279,19 +318,22 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.GetOrAddEntry
   nameWithType: XwaCraftGenderFile.GetOrAddEntry
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftGenderFile_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(System.String)
-  nameWithType: XwaCraftGenderFile.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(String)
+  nameWithType: XwaCraftGenderFile.Write(string)
+  nameWithType.vb: XwaCraftGenderFile.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(System.String[])
-  name: Write(String[])
+  name: Write(string[])
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftGenderFile_Write_System_String___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(System.String[])
   name.vb: Write(String())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(System.String[])
-  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(System.String())
-  nameWithType: XwaCraftGenderFile.Write(String[])
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(string[])
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write(String())
+  nameWithType: XwaCraftGenderFile.Write(string[])
   nameWithType.vb: XwaCraftGenderFile.Write(String())
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.Write*
   name: Write
@@ -355,30 +397,39 @@ references:
   name: XwaCraftPluralNameFile()
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftPluralNameFile__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.XwaCraftPluralNameFile()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.New()
   nameWithType: XwaCraftPluralNameFile.XwaCraftPluralNameFile()
+  nameWithType.vb: XwaCraftPluralNameFile.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.#ctor(System.String)
-  name: XwaCraftPluralNameFile(String)
+  name: XwaCraftPluralNameFile(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftPluralNameFile__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.XwaCraftPluralNameFile(System.String)
-  nameWithType: XwaCraftPluralNameFile.XwaCraftPluralNameFile(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.XwaCraftPluralNameFile(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.New(String)
+  nameWithType: XwaCraftPluralNameFile.XwaCraftPluralNameFile(string)
+  nameWithType.vb: XwaCraftPluralNameFile.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.#ctor(System.String[])
-  name: XwaCraftPluralNameFile(String[])
+  name: XwaCraftPluralNameFile(string[])
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftPluralNameFile__ctor_System_String___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.#ctor(System.String[])
-  name.vb: XwaCraftPluralNameFile(String())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.XwaCraftPluralNameFile(System.String[])
-  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.XwaCraftPluralNameFile(System.String())
-  nameWithType: XwaCraftPluralNameFile.XwaCraftPluralNameFile(String[])
-  nameWithType.vb: XwaCraftPluralNameFile.XwaCraftPluralNameFile(String())
+  name.vb: New(String())
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.XwaCraftPluralNameFile(string[])
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.New(String())
+  nameWithType: XwaCraftPluralNameFile.XwaCraftPluralNameFile(string[])
+  nameWithType.vb: XwaCraftPluralNameFile.New(String())
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.#ctor*
   name: XwaCraftPluralNameFile
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftPluralNameFile__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.XwaCraftPluralNameFile
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.New
   nameWithType: XwaCraftPluralNameFile.XwaCraftPluralNameFile
+  nameWithType.vb: XwaCraftPluralNameFile.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Entries
   name: Entries
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftPluralNameFile_Entries
@@ -399,11 +450,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.EntryCount
   nameWithType: XwaCraftPluralNameFile.EntryCount
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.GetOrAddEntry(System.Int32)
-  name: GetOrAddEntry(Int32)
+  name: GetOrAddEntry(int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftPluralNameFile_GetOrAddEntry_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.GetOrAddEntry(System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.GetOrAddEntry(System.Int32)
-  nameWithType: XwaCraftPluralNameFile.GetOrAddEntry(Int32)
+  name.vb: GetOrAddEntry(Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.GetOrAddEntry(int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.GetOrAddEntry(Integer)
+  nameWithType: XwaCraftPluralNameFile.GetOrAddEntry(int)
+  nameWithType.vb: XwaCraftPluralNameFile.GetOrAddEntry(Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.GetOrAddEntry*
   name: GetOrAddEntry
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftPluralNameFile_GetOrAddEntry_
@@ -412,19 +466,22 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.GetOrAddEntry
   nameWithType: XwaCraftPluralNameFile.GetOrAddEntry
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftPluralNameFile_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(System.String)
-  nameWithType: XwaCraftPluralNameFile.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(String)
+  nameWithType: XwaCraftPluralNameFile.Write(string)
+  nameWithType.vb: XwaCraftPluralNameFile.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(System.String[])
-  name: Write(String[])
+  name: Write(string[])
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftPluralNameFile_Write_System_String___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(System.String[])
   name.vb: Write(String())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(System.String[])
-  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(System.String())
-  nameWithType: XwaCraftPluralNameFile.Write(String[])
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(string[])
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write(String())
+  nameWithType: XwaCraftPluralNameFile.Write(string[])
   nameWithType.vb: XwaCraftPluralNameFile.Write(String())
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.Write*
   name: Write
@@ -488,30 +545,39 @@ references:
   name: XwaCraftShortNameFile()
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftShortNameFile__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.XwaCraftShortNameFile()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.New()
   nameWithType: XwaCraftShortNameFile.XwaCraftShortNameFile()
+  nameWithType.vb: XwaCraftShortNameFile.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.#ctor(System.String)
-  name: XwaCraftShortNameFile(String)
+  name: XwaCraftShortNameFile(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftShortNameFile__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.XwaCraftShortNameFile(System.String)
-  nameWithType: XwaCraftShortNameFile.XwaCraftShortNameFile(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.XwaCraftShortNameFile(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.New(String)
+  nameWithType: XwaCraftShortNameFile.XwaCraftShortNameFile(string)
+  nameWithType.vb: XwaCraftShortNameFile.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.#ctor(System.String[])
-  name: XwaCraftShortNameFile(String[])
+  name: XwaCraftShortNameFile(string[])
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftShortNameFile__ctor_System_String___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.#ctor(System.String[])
-  name.vb: XwaCraftShortNameFile(String())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.XwaCraftShortNameFile(System.String[])
-  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.XwaCraftShortNameFile(System.String())
-  nameWithType: XwaCraftShortNameFile.XwaCraftShortNameFile(String[])
-  nameWithType.vb: XwaCraftShortNameFile.XwaCraftShortNameFile(String())
+  name.vb: New(String())
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.XwaCraftShortNameFile(string[])
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.New(String())
+  nameWithType: XwaCraftShortNameFile.XwaCraftShortNameFile(string[])
+  nameWithType.vb: XwaCraftShortNameFile.New(String())
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.#ctor*
   name: XwaCraftShortNameFile
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftShortNameFile__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.XwaCraftShortNameFile
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.New
   nameWithType: XwaCraftShortNameFile.XwaCraftShortNameFile
+  nameWithType.vb: XwaCraftShortNameFile.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Entries
   name: Entries
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftShortNameFile_Entries
@@ -532,11 +598,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.EntryCount
   nameWithType: XwaCraftShortNameFile.EntryCount
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.GetOrAddEntry(System.Int32)
-  name: GetOrAddEntry(Int32)
+  name: GetOrAddEntry(int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftShortNameFile_GetOrAddEntry_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.GetOrAddEntry(System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.GetOrAddEntry(System.Int32)
-  nameWithType: XwaCraftShortNameFile.GetOrAddEntry(Int32)
+  name.vb: GetOrAddEntry(Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.GetOrAddEntry(int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.GetOrAddEntry(Integer)
+  nameWithType: XwaCraftShortNameFile.GetOrAddEntry(int)
+  nameWithType.vb: XwaCraftShortNameFile.GetOrAddEntry(Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.GetOrAddEntry*
   name: GetOrAddEntry
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftShortNameFile_GetOrAddEntry_
@@ -545,19 +614,22 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.GetOrAddEntry
   nameWithType: XwaCraftShortNameFile.GetOrAddEntry
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftShortNameFile_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(System.String)
-  nameWithType: XwaCraftShortNameFile.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(String)
+  nameWithType: XwaCraftShortNameFile.Write(string)
+  nameWithType.vb: XwaCraftShortNameFile.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(System.String[])
-  name: Write(String[])
+  name: Write(string[])
   href: api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html#JeremyAnsel_Xwa_Workspace_XwaCraftShortNameFile_Write_System_String___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(System.String[])
   name.vb: Write(String())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(System.String[])
-  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(System.String())
-  nameWithType: XwaCraftShortNameFile.Write(String[])
+  fullName: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(string[])
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write(String())
+  nameWithType: XwaCraftShortNameFile.Write(string[])
   nameWithType.vb: XwaCraftShortNameFile.Write(String())
 - uid: JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.Write*
   name: Write
@@ -576,24 +648,30 @@ references:
   name: XwaExeCraftEntry()
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.XwaExeCraftEntry()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.New()
   nameWithType: XwaExeCraftEntry.XwaExeCraftEntry()
+  nameWithType.vb: XwaExeCraftEntry.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.#ctor(System.Byte[])
-  name: XwaExeCraftEntry(Byte[])
+  name: XwaExeCraftEntry(byte[])
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry__ctor_System_Byte___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.#ctor(System.Byte[])
-  name.vb: XwaExeCraftEntry(Byte())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.XwaExeCraftEntry(System.Byte[])
-  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.XwaExeCraftEntry(System.Byte())
-  nameWithType: XwaExeCraftEntry.XwaExeCraftEntry(Byte[])
-  nameWithType.vb: XwaExeCraftEntry.XwaExeCraftEntry(Byte())
+  name.vb: New(Byte())
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.XwaExeCraftEntry(byte[])
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.New(Byte())
+  nameWithType: XwaExeCraftEntry.XwaExeCraftEntry(byte[])
+  nameWithType.vb: XwaExeCraftEntry.New(Byte())
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.#ctor*
   name: XwaExeCraftEntry
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.XwaExeCraftEntry
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.New
   nameWithType: XwaExeCraftEntry.XwaExeCraftEntry
+  nameWithType.vb: XwaExeCraftEntry.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
   name: Acceleration
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry_Acceleration
@@ -1240,21 +1318,30 @@ references:
   name: XwaExeCraftTable()
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftTable__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.XwaExeCraftTable()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.New()
   nameWithType: XwaExeCraftTable.XwaExeCraftTable()
+  nameWithType.vb: XwaExeCraftTable.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.#ctor(System.String)
-  name: XwaExeCraftTable(String)
+  name: XwaExeCraftTable(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftTable__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.XwaExeCraftTable(System.String)
-  nameWithType: XwaExeCraftTable.XwaExeCraftTable(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.XwaExeCraftTable(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.New(String)
+  nameWithType: XwaExeCraftTable.XwaExeCraftTable(string)
+  nameWithType.vb: XwaExeCraftTable.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.#ctor*
   name: XwaExeCraftTable
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftTable__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.XwaExeCraftTable
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.New
   nameWithType: XwaExeCraftTable.XwaExeCraftTable
+  nameWithType.vb: XwaExeCraftTable.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.Entries
   name: Entries
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftTable_Entries
@@ -1281,11 +1368,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.EntryOffset
   nameWithType: XwaExeCraftTable.EntryOffset
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftTable_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.Write(System.String)
-  nameWithType: XwaExeCraftTable.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.Write(String)
+  nameWithType: XwaExeCraftTable.Write(string)
+  nameWithType.vb: XwaExeCraftTable.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.Write*
   name: Write
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftTable_Write_
@@ -1544,24 +1634,30 @@ references:
   name: XwaExeObjectEntry()
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectEntry__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.XwaExeObjectEntry()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.New()
   nameWithType: XwaExeObjectEntry.XwaExeObjectEntry()
+  nameWithType.vb: XwaExeObjectEntry.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.#ctor(System.Byte[])
-  name: XwaExeObjectEntry(Byte[])
+  name: XwaExeObjectEntry(byte[])
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectEntry__ctor_System_Byte___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.#ctor(System.Byte[])
-  name.vb: XwaExeObjectEntry(Byte())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.XwaExeObjectEntry(System.Byte[])
-  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.XwaExeObjectEntry(System.Byte())
-  nameWithType: XwaExeObjectEntry.XwaExeObjectEntry(Byte[])
-  nameWithType.vb: XwaExeObjectEntry.XwaExeObjectEntry(Byte())
+  name.vb: New(Byte())
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.XwaExeObjectEntry(byte[])
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.New(Byte())
+  nameWithType: XwaExeObjectEntry.XwaExeObjectEntry(byte[])
+  nameWithType.vb: XwaExeObjectEntry.New(Byte())
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.#ctor*
   name: XwaExeObjectEntry
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectEntry__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.XwaExeObjectEntry
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.New
   nameWithType: XwaExeObjectEntry.XwaExeObjectEntry
+  nameWithType.vb: XwaExeObjectEntry.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.CraftIndex
   name: CraftIndex
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectEntry_CraftIndex
@@ -1876,21 +1972,30 @@ references:
   name: XwaExeObjectTable()
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectTable__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.XwaExeObjectTable()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.New()
   nameWithType: XwaExeObjectTable.XwaExeObjectTable()
+  nameWithType.vb: XwaExeObjectTable.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.#ctor(System.String)
-  name: XwaExeObjectTable(String)
+  name: XwaExeObjectTable(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectTable__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.XwaExeObjectTable(System.String)
-  nameWithType: XwaExeObjectTable.XwaExeObjectTable(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.XwaExeObjectTable(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.New(String)
+  nameWithType: XwaExeObjectTable.XwaExeObjectTable(string)
+  nameWithType.vb: XwaExeObjectTable.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.#ctor*
   name: XwaExeObjectTable
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectTable__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.XwaExeObjectTable
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.New
   nameWithType: XwaExeObjectTable.XwaExeObjectTable
+  nameWithType.vb: XwaExeObjectTable.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.Entries
   name: Entries
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectTable_Entries
@@ -1917,11 +2022,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.EntryOffset
   nameWithType: XwaExeObjectTable.EntryOffset
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectTable_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.Write(System.String)
-  nameWithType: XwaExeObjectTable.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.Write(String)
+  nameWithType: XwaExeObjectTable.Write(string)
+  nameWithType.vb: XwaExeObjectTable.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.Write*
   name: Write
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectTable_Write_
@@ -1939,24 +2047,30 @@ references:
   name: XwaExeSpeciesEntry()
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesEntry__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.XwaExeSpeciesEntry()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.New()
   nameWithType: XwaExeSpeciesEntry.XwaExeSpeciesEntry()
+  nameWithType.vb: XwaExeSpeciesEntry.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.#ctor(System.Byte[])
-  name: XwaExeSpeciesEntry(Byte[])
+  name: XwaExeSpeciesEntry(byte[])
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesEntry__ctor_System_Byte___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.#ctor(System.Byte[])
-  name.vb: XwaExeSpeciesEntry(Byte())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.XwaExeSpeciesEntry(System.Byte[])
-  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.XwaExeSpeciesEntry(System.Byte())
-  nameWithType: XwaExeSpeciesEntry.XwaExeSpeciesEntry(Byte[])
-  nameWithType.vb: XwaExeSpeciesEntry.XwaExeSpeciesEntry(Byte())
+  name.vb: New(Byte())
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.XwaExeSpeciesEntry(byte[])
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.New(Byte())
+  nameWithType: XwaExeSpeciesEntry.XwaExeSpeciesEntry(byte[])
+  nameWithType.vb: XwaExeSpeciesEntry.New(Byte())
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.#ctor*
   name: XwaExeSpeciesEntry
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesEntry__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.XwaExeSpeciesEntry
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.New
   nameWithType: XwaExeSpeciesEntry.XwaExeSpeciesEntry
+  nameWithType.vb: XwaExeSpeciesEntry.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.EntryLength
   name: EntryLength
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesEntry_EntryLength
@@ -2012,21 +2126,30 @@ references:
   name: XwaExeSpeciesTable()
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesTable__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.XwaExeSpeciesTable()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.New()
   nameWithType: XwaExeSpeciesTable.XwaExeSpeciesTable()
+  nameWithType.vb: XwaExeSpeciesTable.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.#ctor(System.String)
-  name: XwaExeSpeciesTable(String)
+  name: XwaExeSpeciesTable(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesTable__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.XwaExeSpeciesTable(System.String)
-  nameWithType: XwaExeSpeciesTable.XwaExeSpeciesTable(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.XwaExeSpeciesTable(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.New(String)
+  nameWithType: XwaExeSpeciesTable.XwaExeSpeciesTable(string)
+  nameWithType.vb: XwaExeSpeciesTable.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.#ctor*
   name: XwaExeSpeciesTable
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesTable__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.XwaExeSpeciesTable
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.New
   nameWithType: XwaExeSpeciesTable.XwaExeSpeciesTable
+  nameWithType.vb: XwaExeSpeciesTable.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.Entries
   name: Entries
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesTable_Entries
@@ -2053,11 +2176,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.EntryOffset
   nameWithType: XwaExeSpeciesTable.EntryOffset
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesTable_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.Write(System.String)
-  nameWithType: XwaExeSpeciesTable.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.Write(String)
+  nameWithType: XwaExeSpeciesTable.Write(string)
+  nameWithType.vb: XwaExeSpeciesTable.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.Write*
   name: Write
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesTable_Write_
@@ -2072,11 +2198,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeVersion
   nameWithType: XwaExeVersion
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeVersion.IsMatch(System.String)
-  name: IsMatch(String)
+  name: IsMatch(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.html#JeremyAnsel_Xwa_Workspace_XwaExeVersion_IsMatch_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeVersion.IsMatch(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeVersion.IsMatch(System.String)
-  nameWithType: XwaExeVersion.IsMatch(String)
+  name.vb: IsMatch(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeVersion.IsMatch(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeVersion.IsMatch(String)
+  nameWithType: XwaExeVersion.IsMatch(string)
+  nameWithType.vb: XwaExeVersion.IsMatch(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeVersion.IsMatch*
   name: IsMatch
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.html#JeremyAnsel_Xwa_Workspace_XwaExeVersion_IsMatch_
@@ -2085,11 +2214,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeVersion.IsMatch
   nameWithType: XwaExeVersion.IsMatch
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeVersion.Match(System.String)
-  name: Match(String)
+  name: Match(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.html#JeremyAnsel_Xwa_Workspace_XwaExeVersion_Match_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeVersion.Match(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeVersion.Match(System.String)
-  nameWithType: XwaExeVersion.Match(String)
+  name.vb: Match(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeVersion.Match(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeVersion.Match(String)
+  nameWithType: XwaExeVersion.Match(string)
+  nameWithType.vb: XwaExeVersion.Match(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeVersion.Match*
   name: Match
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.html#JeremyAnsel_Xwa_Workspace_XwaExeVersion_Match_
@@ -2236,21 +2368,30 @@ references:
   name: XwaExeWeaponTable()
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html#JeremyAnsel_Xwa_Workspace_XwaExeWeaponTable__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.XwaExeWeaponTable()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.New()
   nameWithType: XwaExeWeaponTable.XwaExeWeaponTable()
+  nameWithType.vb: XwaExeWeaponTable.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.#ctor(System.String)
-  name: XwaExeWeaponTable(String)
+  name: XwaExeWeaponTable(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html#JeremyAnsel_Xwa_Workspace_XwaExeWeaponTable__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.XwaExeWeaponTable(System.String)
-  nameWithType: XwaExeWeaponTable.XwaExeWeaponTable(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.XwaExeWeaponTable(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.New(String)
+  nameWithType: XwaExeWeaponTable.XwaExeWeaponTable(string)
+  nameWithType.vb: XwaExeWeaponTable.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.#ctor*
   name: XwaExeWeaponTable
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html#JeremyAnsel_Xwa_Workspace_XwaExeWeaponTable__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.XwaExeWeaponTable
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.New
   nameWithType: XwaExeWeaponTable.XwaExeWeaponTable
+  nameWithType.vb: XwaExeWeaponTable.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.Entries
   name: Entries
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html#JeremyAnsel_Xwa_Workspace_XwaExeWeaponTable_Entries
@@ -2271,11 +2412,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.EntryCount
   nameWithType: XwaExeWeaponTable.EntryCount
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html#JeremyAnsel_Xwa_Workspace_XwaExeWeaponTable_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.Write(System.String)
-  nameWithType: XwaExeWeaponTable.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.Write(String)
+  nameWithType: XwaExeWeaponTable.Write(string)
+  nameWithType.vb: XwaExeWeaponTable.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.Write*
   name: Write
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html#JeremyAnsel_Xwa_Workspace_XwaExeWeaponTable_Write_
@@ -2331,21 +2475,30 @@ references:
   name: XwaFlightModelListFile()
   href: api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html#JeremyAnsel_Xwa_Workspace_XwaFlightModelListFile__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.XwaFlightModelListFile()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.New()
   nameWithType: XwaFlightModelListFile.XwaFlightModelListFile()
+  nameWithType.vb: XwaFlightModelListFile.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.#ctor(System.String)
-  name: XwaFlightModelListFile(String)
+  name: XwaFlightModelListFile(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html#JeremyAnsel_Xwa_Workspace_XwaFlightModelListFile__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.XwaFlightModelListFile(System.String)
-  nameWithType: XwaFlightModelListFile.XwaFlightModelListFile(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.XwaFlightModelListFile(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.New(String)
+  nameWithType: XwaFlightModelListFile.XwaFlightModelListFile(string)
+  nameWithType.vb: XwaFlightModelListFile.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.#ctor*
   name: XwaFlightModelListFile
   href: api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html#JeremyAnsel_Xwa_Workspace_XwaFlightModelListFile__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.XwaFlightModelListFile
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.New
   nameWithType: XwaFlightModelListFile.XwaFlightModelListFile
+  nameWithType.vb: XwaFlightModelListFile.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.Entries
   name: Entries
   href: api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html#JeremyAnsel_Xwa_Workspace_XwaFlightModelListFile_Entries
@@ -2360,11 +2513,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.Entries
   nameWithType: XwaFlightModelListFile.Entries
 - uid: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.GetOrAddEntry(System.String)
-  name: GetOrAddEntry(String)
+  name: GetOrAddEntry(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html#JeremyAnsel_Xwa_Workspace_XwaFlightModelListFile_GetOrAddEntry_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.GetOrAddEntry(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.GetOrAddEntry(System.String)
-  nameWithType: XwaFlightModelListFile.GetOrAddEntry(String)
+  name.vb: GetOrAddEntry(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.GetOrAddEntry(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.GetOrAddEntry(String)
+  nameWithType: XwaFlightModelListFile.GetOrAddEntry(string)
+  nameWithType.vb: XwaFlightModelListFile.GetOrAddEntry(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.GetOrAddEntry*
   name: GetOrAddEntry
   href: api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html#JeremyAnsel_Xwa_Workspace_XwaFlightModelListFile_GetOrAddEntry_
@@ -2373,11 +2529,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.GetOrAddEntry
   nameWithType: XwaFlightModelListFile.GetOrAddEntry
 - uid: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html#JeremyAnsel_Xwa_Workspace_XwaFlightModelListFile_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.Write(System.String)
-  nameWithType: XwaFlightModelListFile.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.Write(String)
+  nameWithType: XwaFlightModelListFile.Write(string)
+  nameWithType.vb: XwaFlightModelListFile.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.Write*
   name: Write
   href: api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html#JeremyAnsel_Xwa_Workspace_XwaFlightModelListFile_Write_
@@ -2883,21 +3042,30 @@ references:
   name: XwaShipListFile()
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShipListFile.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.XwaShipListFile()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShipListFile.New()
   nameWithType: XwaShipListFile.XwaShipListFile()
+  nameWithType.vb: XwaShipListFile.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.#ctor(System.String)
-  name: XwaShipListFile(String)
+  name: XwaShipListFile(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShipListFile.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.XwaShipListFile(System.String)
-  nameWithType: XwaShipListFile.XwaShipListFile(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.XwaShipListFile(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShipListFile.New(String)
+  nameWithType: XwaShipListFile.XwaShipListFile(string)
+  nameWithType.vb: XwaShipListFile.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.#ctor*
   name: XwaShipListFile
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaShipListFile.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.XwaShipListFile
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShipListFile.New
   nameWithType: XwaShipListFile.XwaShipListFile
+  nameWithType.vb: XwaShipListFile.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.CraftTypeToString(JeremyAnsel.Xwa.Workspace.XwaShipListCraftType)
   name: CraftTypeToString(XwaShipListCraftType)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_CraftTypeToString_JeremyAnsel_Xwa_Workspace_XwaShipListCraftType_
@@ -2938,11 +3106,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.FlyableToString
   nameWithType: XwaShipListFile.FlyableToString
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetCraftType(System.String)
-  name: GetCraftType(String)
+  name: GetCraftType(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetCraftType_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetCraftType(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetCraftType(System.String)
-  nameWithType: XwaShipListFile.GetCraftType(String)
+  name.vb: GetCraftType(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetCraftType(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetCraftType(String)
+  nameWithType: XwaShipListFile.GetCraftType(string)
+  nameWithType.vb: XwaShipListFile.GetCraftType(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetCraftType*
   name: GetCraftType
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetCraftType_
@@ -2951,11 +3122,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetCraftType
   nameWithType: XwaShipListFile.GetCraftType
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetFlyableOption(System.String)
-  name: GetFlyableOption(String)
+  name: GetFlyableOption(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetFlyableOption_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetFlyableOption(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetFlyableOption(System.String)
-  nameWithType: XwaShipListFile.GetFlyableOption(String)
+  name.vb: GetFlyableOption(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetFlyableOption(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetFlyableOption(String)
+  nameWithType: XwaShipListFile.GetFlyableOption(string)
+  nameWithType.vb: XwaShipListFile.GetFlyableOption(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetFlyableOption*
   name: GetFlyableOption
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetFlyableOption_
@@ -2964,11 +3138,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetFlyableOption
   nameWithType: XwaShipListFile.GetFlyableOption
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetKnownOption(System.String)
-  name: GetKnownOption(String)
+  name: GetKnownOption(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetKnownOption_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetKnownOption(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetKnownOption(System.String)
-  nameWithType: XwaShipListFile.GetKnownOption(String)
+  name.vb: GetKnownOption(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetKnownOption(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetKnownOption(String)
+  nameWithType: XwaShipListFile.GetKnownOption(string)
+  nameWithType.vb: XwaShipListFile.GetKnownOption(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetKnownOption*
   name: GetKnownOption
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetKnownOption_
@@ -2977,11 +3154,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetKnownOption
   nameWithType: XwaShipListFile.GetKnownOption
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetOrAddEntry(System.Int32)
-  name: GetOrAddEntry(Int32)
+  name: GetOrAddEntry(int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetOrAddEntry_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetOrAddEntry(System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetOrAddEntry(System.Int32)
-  nameWithType: XwaShipListFile.GetOrAddEntry(Int32)
+  name.vb: GetOrAddEntry(Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetOrAddEntry(int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetOrAddEntry(Integer)
+  nameWithType: XwaShipListFile.GetOrAddEntry(int)
+  nameWithType.vb: XwaShipListFile.GetOrAddEntry(Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetOrAddEntry*
   name: GetOrAddEntry
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetOrAddEntry_
@@ -2990,11 +3170,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetOrAddEntry
   nameWithType: XwaShipListFile.GetOrAddEntry
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetSkirmishOption(System.String)
-  name: GetSkirmishOption(String)
+  name: GetSkirmishOption(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetSkirmishOption_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetSkirmishOption(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetSkirmishOption(System.String)
-  nameWithType: XwaShipListFile.GetSkirmishOption(String)
+  name.vb: GetSkirmishOption(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetSkirmishOption(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetSkirmishOption(String)
+  nameWithType: XwaShipListFile.GetSkirmishOption(string)
+  nameWithType.vb: XwaShipListFile.GetSkirmishOption(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.GetSkirmishOption*
   name: GetSkirmishOption
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_GetSkirmishOption_
@@ -3035,11 +3218,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.SkirmishToString
   nameWithType: XwaShipListFile.SkirmishToString
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShipListFile.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.Write(System.String)
-  nameWithType: XwaShipListFile.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShipListFile.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShipListFile.Write(String)
+  nameWithType: XwaShipListFile.Write(string)
+  nameWithType.vb: XwaShipListFile.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShipListFile.Write*
   name: Write
   href: api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html#JeremyAnsel_Xwa_Workspace_XwaShipListFile_Write_
@@ -3117,27 +3303,39 @@ references:
   name: XwaShpFile()
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShpFile.New()
   nameWithType: XwaShpFile.XwaShpFile()
-- uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(Stream)
+  nameWithType.vb: XwaShpFile.New()
+- uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(System.IO.Stream)
   name: XwaShpFile(Stream)
-  href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile__ctor_Stream_
-  commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(Stream)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile(Stream)
+  href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile__ctor_System_IO_Stream_
+  commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(System.IO.Stream)
+  name.vb: New(Stream)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile(System.IO.Stream)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShpFile.New(System.IO.Stream)
   nameWithType: XwaShpFile.XwaShpFile(Stream)
+  nameWithType.vb: XwaShpFile.New(Stream)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(System.String)
-  name: XwaShpFile(String)
+  name: XwaShpFile(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile(System.String)
-  nameWithType: XwaShpFile.XwaShpFile(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShpFile.New(String)
+  nameWithType: XwaShpFile.XwaShpFile(string)
+  nameWithType.vb: XwaShpFile.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor*
   name: XwaShpFile
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShpFile.New
   nameWithType: XwaShpFile.XwaShpFile
+  nameWithType.vb: XwaShpFile.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.Craft
   name: Craft
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile_Craft
@@ -3346,18 +3544,21 @@ references:
   isSpec: "True"
   fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Side
   nameWithType: XwaShpFile.Side
-- uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(Stream)
+- uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.IO.Stream)
   name: Write(Stream)
-  href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile_Write_Stream_
-  commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(Stream)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(Stream)
+  href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile_Write_System_IO_Stream_
+  commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.IO.Stream)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.IO.Stream)
   nameWithType: XwaShpFile.Write(Stream)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.String)
-  nameWithType: XwaShpFile.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(String)
+  nameWithType: XwaShpFile.Write(string)
+  nameWithType.vb: XwaShpFile.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write*
   name: Write
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile_Write_
@@ -3489,21 +3690,30 @@ references:
   name: XwaSpecDescFile()
   href: api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html#JeremyAnsel_Xwa_Workspace_XwaSpecDescFile__ctor
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.#ctor
+  name.vb: New()
   fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.XwaSpecDescFile()
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.New()
   nameWithType: XwaSpecDescFile.XwaSpecDescFile()
+  nameWithType.vb: XwaSpecDescFile.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.#ctor(System.String)
-  name: XwaSpecDescFile(String)
+  name: XwaSpecDescFile(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html#JeremyAnsel_Xwa_Workspace_XwaSpecDescFile__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.XwaSpecDescFile(System.String)
-  nameWithType: XwaSpecDescFile.XwaSpecDescFile(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.XwaSpecDescFile(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.New(String)
+  nameWithType: XwaSpecDescFile.XwaSpecDescFile(string)
+  nameWithType.vb: XwaSpecDescFile.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.#ctor*
   name: XwaSpecDescFile
   href: api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html#JeremyAnsel_Xwa_Workspace_XwaSpecDescFile__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.XwaSpecDescFile
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.New
   nameWithType: XwaSpecDescFile.XwaSpecDescFile
+  nameWithType.vb: XwaSpecDescFile.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.Entries
   name: Entries
   href: api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html#JeremyAnsel_Xwa_Workspace_XwaSpecDescFile_Entries
@@ -3518,11 +3728,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.Entries
   nameWithType: XwaSpecDescFile.Entries
 - uid: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.GetOrAddEntry(System.Int32)
-  name: GetOrAddEntry(Int32)
+  name: GetOrAddEntry(int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html#JeremyAnsel_Xwa_Workspace_XwaSpecDescFile_GetOrAddEntry_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.GetOrAddEntry(System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.GetOrAddEntry(System.Int32)
-  nameWithType: XwaSpecDescFile.GetOrAddEntry(Int32)
+  name.vb: GetOrAddEntry(Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.GetOrAddEntry(int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.GetOrAddEntry(Integer)
+  nameWithType: XwaSpecDescFile.GetOrAddEntry(int)
+  nameWithType.vb: XwaSpecDescFile.GetOrAddEntry(Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.GetOrAddEntry*
   name: GetOrAddEntry
   href: api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html#JeremyAnsel_Xwa_Workspace_XwaSpecDescFile_GetOrAddEntry_
@@ -3537,11 +3750,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.MaxEntryCount
   nameWithType: XwaSpecDescFile.MaxEntryCount
 - uid: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html#JeremyAnsel_Xwa_Workspace_XwaSpecDescFile_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.Write(System.String)
-  nameWithType: XwaSpecDescFile.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.Write(String)
+  nameWithType: XwaSpecDescFile.Write(string)
+  nameWithType.vb: XwaSpecDescFile.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.Write*
   name: Write
   href: api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html#JeremyAnsel_Xwa_Workspace_XwaSpecDescFile_Write_
@@ -3556,18 +3772,24 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace
   nameWithType: XwaWorkspace
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.#ctor(System.String)
-  name: XwaWorkspace(String)
+  name: XwaWorkspace(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaWorkspace.#ctor(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.XwaWorkspace(System.String)
-  nameWithType: XwaWorkspace.XwaWorkspace(String)
+  name.vb: New(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.XwaWorkspace(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaWorkspace.New(String)
+  nameWithType: XwaWorkspace.XwaWorkspace(string)
+  nameWithType.vb: XwaWorkspace.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.#ctor*
   name: XwaWorkspace
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace__ctor_
   commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaWorkspace.#ctor
   isSpec: "True"
+  name.vb: New
   fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.XwaWorkspace
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaWorkspace.New
   nameWithType: XwaWorkspace.XwaWorkspace
+  nameWithType.vb: XwaWorkspace.New
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.CraftGenderFile
   name: CraftGenderFile
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_CraftGenderFile
@@ -3677,17 +3899,23 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GameName
   nameWithType: XwaWorkspace.GameName
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(System.Int16,System.Int16)
-  name: GetModelName(Int16, Int16)
+  name: GetModelName(short, short)
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_GetModelName_System_Int16_System_Int16_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(System.Int16,System.Int16)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(System.Int16, System.Int16)
-  nameWithType: XwaWorkspace.GetModelName(Int16, Int16)
+  name.vb: GetModelName(Short, Short)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(short, short)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(Short, Short)
+  nameWithType: XwaWorkspace.GetModelName(short, short)
+  nameWithType.vb: XwaWorkspace.GetModelName(Short, Short)
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(System.Int32)
-  name: GetModelName(Int32)
+  name: GetModelName(int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_GetModelName_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(System.Int32)
-  nameWithType: XwaWorkspace.GetModelName(Int32)
+  name.vb: GetModelName(Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName(Integer)
+  nameWithType: XwaWorkspace.GetModelName(int)
+  nameWithType.vb: XwaWorkspace.GetModelName(Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName*
   name: GetModelName
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_GetModelName_
@@ -3696,11 +3924,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName
   nameWithType: XwaWorkspace.GetModelName
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile,System.Int32,System.Int32,System.Int32)
-  name: InstallShpFile(XwaShpFile, Int32, Int32, Int32)
+  name: InstallShpFile(XwaShpFile, int, int, int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_InstallShpFile_JeremyAnsel_Xwa_Workspace_XwaShpFile_System_Int32_System_Int32_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile,System.Int32,System.Int32,System.Int32)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile, System.Int32, System.Int32, System.Int32)
-  nameWithType: XwaWorkspace.InstallShpFile(XwaShpFile, Int32, Int32, Int32)
+  name.vb: InstallShpFile(XwaShpFile, Integer, Integer, Integer)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile, int, int, int)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile, Integer, Integer, Integer)
+  nameWithType: XwaWorkspace.InstallShpFile(XwaShpFile, int, int, int)
+  nameWithType.vb: XwaWorkspace.InstallShpFile(XwaShpFile, Integer, Integer, Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile*
   name: InstallShpFile
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_InstallShpFile_
@@ -3709,11 +3940,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile
   nameWithType: XwaWorkspace.InstallShpFile
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.MakeBackup(System.String,System.String)
-  name: MakeBackup(String, String)
+  name: MakeBackup(string, string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_MakeBackup_System_String_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaWorkspace.MakeBackup(System.String,System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.MakeBackup(System.String, System.String)
-  nameWithType: XwaWorkspace.MakeBackup(String, String)
+  name.vb: MakeBackup(String, String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.MakeBackup(string, string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaWorkspace.MakeBackup(String, String)
+  nameWithType: XwaWorkspace.MakeBackup(string, string)
+  nameWithType.vb: XwaWorkspace.MakeBackup(String, String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.MakeBackup*
   name: MakeBackup
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_MakeBackup_
@@ -3818,11 +4052,14 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.WorkingDirectory
   nameWithType: XwaWorkspace.WorkingDirectory
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.Write(System.String)
-  name: Write(String)
+  name: Write(string)
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaWorkspace.Write(System.String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.Write(System.String)
-  nameWithType: XwaWorkspace.Write(String)
+  name.vb: Write(String)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.Write(string)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaWorkspace.Write(String)
+  nameWithType: XwaWorkspace.Write(string)
+  nameWithType.vb: XwaWorkspace.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.Write*
   name: Write
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_Write_
