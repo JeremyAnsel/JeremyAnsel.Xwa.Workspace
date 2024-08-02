@@ -12,3 +12,9 @@ Documentation   | http://jeremyansel.github.io/JeremyAnsel.Xwa.Workspace
 Source code     | https://github.com/JeremyAnsel/JeremyAnsel.Xwa.Workspace
 Nuget           | https://www.nuget.org/packages/JeremyAnsel.Xwa.Workspace
 Build           | https://ci.appveyor.com/project/JeremyAnsel/jeremyansel-xwa-workspace/branch/main
+
+# Usage
+
+```csharp
+XwaWorkspace workspace = new XwaWorkspace(xwaPath);
+```
