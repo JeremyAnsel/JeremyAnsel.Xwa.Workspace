@@ -672,19 +672,6 @@ references:
   fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.New
   nameWithType: XwaExeCraftEntry.XwaExeCraftEntry
   nameWithType.vb: XwaExeCraftEntry.New
-- uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
-  name: Acceleration
-  href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry_Acceleration
-  commentId: P:JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
-  nameWithType: XwaExeCraftEntry.Acceleration
-- uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration*
-  name: Acceleration
-  href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry_Acceleration_
-  commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
-  isSpec: "True"
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
-  nameWithType: XwaExeCraftEntry.Acceleration
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.AIHitsTakenToEvade
   name: AIHitsTakenToEvade
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry_AIHitsTakenToEvade
@@ -698,6 +685,19 @@ references:
   isSpec: "True"
   fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.AIHitsTakenToEvade
   nameWithType: XwaExeCraftEntry.AIHitsTakenToEvade
+- uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
+  name: Acceleration
+  href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry_Acceleration
+  commentId: P:JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
+  nameWithType: XwaExeCraftEntry.Acceleration
+- uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration*
+  name: Acceleration
+  href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry_Acceleration_
+  commentId: Overload:JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
+  isSpec: "True"
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.Acceleration
+  nameWithType: XwaExeCraftEntry.Acceleration
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.CockpitDeltaY
   name: CockpitDeltaY
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry_CockpitDeltaY

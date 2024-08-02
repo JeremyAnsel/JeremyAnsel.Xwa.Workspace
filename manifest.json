@@ -1,5 +1,4 @@
 {
-  "homepages": [],
   "source_base_path": "C:/projects/jeremyansel-xwa-workspace/JeremyAnsel.Xwa.Workspace/Documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
@@ -16,8 +15,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaConvert.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaConvert.html",
-          "hash": "GWbBHWcrm6XRCD7qnZFXHo0YbN4EgKhlLySvDKs+/Sc="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaConvert.html"
         }
       },
       "version": ""
@@ -27,8 +25,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGender.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGender.html",
-          "hash": "/8Ln3xFnP32kpu+64weBpSFm+yKT8Cn9IeZZsTLR1Gs="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGender.html"
         }
       },
       "version": ""
@@ -38,8 +35,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderEntry.html",
-          "hash": "GI1fWCVEkhQxmgwi5AYyrAXCMIWx8XH9vd8kuOlHBuE="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderEntry.html"
         }
       },
       "version": ""
@@ -49,8 +45,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html",
-          "hash": "yLt9JPAI227n/hGGDy8jmgeZzvkd9tPYQ+Lv36eJHq0="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html"
         }
       },
       "version": ""
@@ -60,8 +55,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameEntry.html",
-          "hash": "uGvGWkAhDeCtjPkotIBN2LOtntZ8+jU43/13lSnTEyU="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameEntry.html"
         }
       },
       "version": ""
@@ -71,8 +65,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html",
-          "hash": "4AKddRyNIRj1KTSfx18FBS+wPCff5O1jgRxZTPk2C/A="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html"
         }
       },
       "version": ""
@@ -82,8 +75,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameEntry.html",
-          "hash": "I4C+4dzaCeZxSZajcBNyktpl1kJH5yDIu4qfNlbQnmo="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameEntry.html"
         }
       },
       "version": ""
@@ -93,8 +85,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html",
-          "hash": "4R2pr/n4b8HuOuh+14mx/gFSzhqidX7YZiXBRx26UPI="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html"
         }
       },
       "version": ""
@@ -104,8 +95,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html",
-          "hash": "gyDnmcb9AdoTlq/KZvq+A4Gax6BdcE+CkUOYyLtjdqA="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html"
         }
       },
       "version": ""
@@ -115,8 +105,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftLaser.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftLaser.html",
-          "hash": "BuTync/1LUoBKAE89l9JFypplV6+s6jdamY9NsGx0YM="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftLaser.html"
         }
       },
       "version": ""
@@ -126,8 +115,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html",
-          "hash": "iFlEhowIk8Z2WEKDN6na4srDL5Kidl+3ew2fQ9zLmAg="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html"
         }
       },
       "version": ""
@@ -137,8 +125,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTurret.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTurret.html",
-          "hash": "XsSzT2mrpag2MQ88k2JPk6eK97C+xgIoy/bpwqzwyu0="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTurret.html"
         }
       },
       "version": ""
@@ -148,8 +135,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftWarhead.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftWarhead.html",
-          "hash": "gVugzLOLUnE7MJW59xLqbm/tdUc+AwHaChXE/tntMzc="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftWarhead.html"
         }
       },
       "version": ""
@@ -159,8 +145,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEnableOptions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEnableOptions.html",
-          "hash": "waoo2Ixu/ReiOCkaP6UrE5es09DC2nRGOssdPChFc04="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEnableOptions.html"
         }
       },
       "version": ""
@@ -170,8 +155,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html",
-          "hash": "331agPY4JSVIWZoWRzB7Eed0K2RJhUyons3VUfckpj4="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html"
         }
       },
       "version": ""
@@ -181,8 +165,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectGameOptions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectGameOptions.html",
-          "hash": "Vyu3jWVDyHLdm+NBSfF9rsapYRZYmYBdWndU777Vop8="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectGameOptions.html"
         }
       },
       "version": ""
@@ -192,8 +175,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectRessourceOptions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectRessourceOptions.html",
-          "hash": "51nOLVrGr0Tqfj2rYr096G/puzKF6kJxV0B5pJdXmAk="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectRessourceOptions.html"
         }
       },
       "version": ""
@@ -203,8 +185,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html",
-          "hash": "42+mFh8NZEGlBJ7TC4KnQJc0eDm6Z6EeHTGDbzvQ8mU="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html"
         }
       },
       "version": ""
@@ -214,8 +195,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html",
-          "hash": "dk8hHD8v47+qPYkU+FHBQTVb/Va7XpiJghh2+CQq844="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html"
         }
       },
       "version": ""
@@ -225,8 +205,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html",
-          "hash": "serLvN3PtDh+snwF+my7XyZQGoP517m91ZLv86VIxHg="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html"
         }
       },
       "version": ""
@@ -236,8 +215,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.html",
-          "hash": "EBEuHFS4rliIjtLdXDBNoEtwLQ32sUrtnek1v/BAiEk="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.html"
         }
       },
       "version": ""
@@ -247,8 +225,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponEntry.html",
-          "hash": "CMwrLlu7Y1Vu4AlWIduQ7aXhJX6TkCwUdtrsMgTq0JQ="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponEntry.html"
         }
       },
       "version": ""
@@ -258,8 +235,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html",
-          "hash": "aK0nnx7RG/4Ux0TCYuPFer28/S7LLWqPT+d0Jebr4HQ="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html"
         }
       },
       "version": ""
@@ -269,8 +245,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListEntry.html",
-          "hash": "EfPEorn44XUSOe1/KZf5trmdf1c8Vf79jpr5EdsQq3c="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListEntry.html"
         }
       },
       "version": ""
@@ -280,8 +255,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html",
-          "hash": "gJebirvr4KRx9EGhfBZCj5QHtZtht6yI/Wq28rhuOWU="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html"
         }
       },
       "version": ""
@@ -291,8 +265,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaGunConvergence.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaGunConvergence.html",
-          "hash": "ixHvUeZLkND7Eq4hk2XuSRethPO8vGvb6k5TcnTVh+c="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaGunConvergence.html"
         }
       },
       "version": ""
@@ -302,8 +275,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaObjectCategory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaObjectCategory.html",
-          "hash": "V3nkBX1kJD4qkv/sKq1ZkSWsWHsCrmMAIeemGHS28i4="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaObjectCategory.html"
         }
       },
       "version": ""
@@ -313,8 +285,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipCategory.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipCategory.html",
-          "hash": "v096yp4dgcsDwOkbisr2y5H1QUwtc5blA4dDhWARpOo="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipCategory.html"
         }
       },
       "version": ""
@@ -324,8 +295,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListCraftType.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListCraftType.html",
-          "hash": "7OrSACcCgdmFTPBwZzV/Tn7i8C2X9Y7cak8XgpoJV5A="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListCraftType.html"
         }
       },
       "version": ""
@@ -335,8 +305,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListEntry.html",
-          "hash": "meLFK24sDSanACMW06+bqR5C1u/VEzVLHTVMEtpoMC4="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListEntry.html"
         }
       },
       "version": ""
@@ -346,8 +315,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html",
-          "hash": "zxmi6LI2FYo53nFpjWzQy2u7iR3uX7jyR/k5iWXYV9I="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html"
         }
       },
       "version": ""
@@ -357,8 +325,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFlyableOption.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFlyableOption.html",
-          "hash": "a0PB/8M3hoIv3MYaYdRN33nyq7X0jIk6drScyJF9jrE="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFlyableOption.html"
         }
       },
       "version": ""
@@ -368,8 +335,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListKnownOption.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListKnownOption.html",
-          "hash": "pUX9dbPqZiK0eovbfnSFtD522l+uI0kR/bL8GkwBzPI="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListKnownOption.html"
         }
       },
       "version": ""
@@ -379,8 +345,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListSkirmishOption.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListSkirmishOption.html",
-          "hash": "8PZKs3C7ODNiki3boQTmGoxWEiFPqPeplvf76kllQ0s="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListSkirmishOption.html"
         }
       },
       "version": ""
@@ -390,8 +355,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShpFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html",
-          "hash": "89t7BCiYuOuu8MXX6QZDKL9bsAETOFmrrGoti6M743A="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html"
         }
       },
       "version": ""
@@ -401,8 +365,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescEntry.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescEntry.html",
-          "hash": "jQksmmrp8IPQuoTaKxZM3oQEB9qG8o/IvR9xGzqvg3E="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescEntry.html"
         }
       },
       "version": ""
@@ -412,8 +375,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html",
-          "hash": "2SXQj7y2ph0RfD4JLem/3KQbVeBf8NaRU7PuahTcqgA="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html"
         }
       },
       "version": ""
@@ -423,8 +385,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html",
-          "hash": "vWAPmaVpWrJYXLZMPcxCKwStXcPRFv1Z7RUAnNGIfi8="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html"
         }
       },
       "version": ""
@@ -434,8 +395,7 @@
       "source_relative_path": "api/JeremyAnsel.Xwa.Workspace.yml",
       "output": {
         ".html": {
-          "relative_path": "api/JeremyAnsel.Xwa.Workspace.html",
-          "hash": "5xmpXP2+6McFjhXr30F8xQ+5XI1N394ivzsy8nBlcJA="
+          "relative_path": "api/JeremyAnsel.Xwa.Workspace.html"
         }
       },
       "version": ""
@@ -445,8 +405,17 @@
       "source_relative_path": "api/index.md",
       "output": {
         ".html": {
-          "relative_path": "api/index.html",
-          "hash": "41xeFkWJt/jpcQ+3LpS02uRFyeG0aC+IqLyXj8LTBcU="
+          "relative_path": "api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
         }
       },
       "version": ""
@@ -456,14 +425,22 @@
       "source_relative_path": "index.md",
       "output": {
         ".html": {
-          "relative_path": "index.html",
-          "hash": "9QMFoLc1CSoA94jUsFM5fiV4yd2THUIlc+pFbIWm4+Q="
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
         }
       },
       "version": ""
     }
   ],
-  "version_info": {},
   "groups": [
     {
       "xrefmap": "xrefmap.yml"
