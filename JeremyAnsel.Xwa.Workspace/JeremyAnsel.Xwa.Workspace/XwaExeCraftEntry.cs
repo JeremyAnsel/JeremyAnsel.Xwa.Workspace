@@ -12,7 +12,7 @@ namespace JeremyAnsel.Xwa.Workspace
         {
         }
 
-        public XwaExeCraftEntry(byte[] bytes)
+        public XwaExeCraftEntry(byte[]? bytes)
         {
             if (bytes == null)
             {

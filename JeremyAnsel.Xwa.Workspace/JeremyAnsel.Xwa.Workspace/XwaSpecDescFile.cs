@@ -13,11 +13,16 @@ namespace JeremyAnsel.Xwa.Workspace
         {
         }
 
-        public XwaSpecDescFile(string path)
+        public XwaSpecDescFile(string? path)
         {
+            if (path == null)
+            {
+                throw new ArgumentNullException(nameof(path));
+            }
+
             using (var file = new StreamReader(path, _encoding))
             {
-                string line;
+                string? line;
                 int lineIndex = -1;
                 var entry = new XwaSpecDescEntry();
 
@@ -73,6 +78,11 @@ namespace JeremyAnsel.Xwa.Workspace
 
         public void Write(string path)
         {
+            if (path == null)
+            {
+                throw new ArgumentNullException(nameof(path));
+            }
+
             using (var file = new StreamWriter(path, false, _encoding))
             {
                 file.WriteLine("// Species CMD name - 64 character limit");

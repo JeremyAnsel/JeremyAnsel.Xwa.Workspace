@@ -8,7 +8,7 @@
         public const int DescriptionMaxLength = 255;
         public const int CrewMaxLength = 63;
 
-        private string craftLongName;
+        private string craftLongName = string.Empty;
 
         public string CraftLongName
         {
@@ -19,7 +19,7 @@
 
             set
             {
-                craftLongName = value?.Substring(0, Math.Min(value.Length, CraftLongNameMaxLength));
+                craftLongName = value[..Math.Min(value.Length, CraftLongNameMaxLength)];
             }
         }
 
@@ -44,7 +44,7 @@
             }
         }
 
-        private string manufacturer;
+        private string manufacturer = string.Empty;
 
         public string Manufacturer
         {
@@ -55,11 +55,11 @@
 
             set
             {
-                manufacturer = value?.Substring(0, Math.Min(value.Length, ManufacturerMaxLength));
+                manufacturer = value[..Math.Min(value.Length, ManufacturerMaxLength)];
             }
         }
 
-        private string side;
+        private string side = string.Empty;
 
         public string Side
         {
@@ -70,11 +70,11 @@
 
             set
             {
-                side = value?.Substring(0, Math.Min(value.Length, SideMaxLength));
+                side = value[..Math.Min(value.Length, SideMaxLength)];
             }
         }
 
-        private string description;
+        private string description = string.Empty;
 
         public string Description
         {
@@ -85,11 +85,11 @@
 
             set
             {
-                description = value?.Substring(0, Math.Min(value.Length, DescriptionMaxLength));
+                description = value[..Math.Min(value.Length, DescriptionMaxLength)];
             }
         }
 
-        private string crew;
+        private string crew = string.Empty;
 
         public string Crew
         {
@@ -100,7 +100,7 @@
 
             set
             {
-                crew = value?.Substring(0, Math.Min(value.Length, CrewMaxLength));
+                crew = value[..Math.Min(value.Length, CrewMaxLength)];
             }
         }
     }

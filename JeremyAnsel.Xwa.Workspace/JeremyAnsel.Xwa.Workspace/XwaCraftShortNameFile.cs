@@ -25,12 +25,12 @@ namespace JeremyAnsel.Xwa.Workspace
             for (int index = StartLineIndex; index < StartLineIndex + EntryCount; index++)
             {
                 string line = lines[index];
-                string key = line.Substring(1, line.IndexOf('!', 1) - 1);
-                string name = line.Substring(key.Length + 2);
+                string key = line[1..line.IndexOf('!', 1)];
+                string name = line[(key.Length + 2)..];
 
                 if (key.EndsWith("_SHORT", StringComparison.OrdinalIgnoreCase))
                 {
-                    key = key.Substring(0, key.Length - "_SHORT".Length);
+                    key = key[..^"_SHORT".Length];
                 }
 
                 var entry = new XwaCraftShortNameEntry

@@ -25,7 +25,7 @@ namespace JeremyAnsel.Xwa.Workspace
             for (int index = StartLineIndex; index < StartLineIndex + EntryCount; index++)
             {
                 string line = lines[index];
-                string key = line.Substring(1, line.IndexOf('!', 1) - 1);
+                string key = line[1..line.IndexOf('!', 1)];
 
                 var entry = new XwaCraftGenderEntry
                 {

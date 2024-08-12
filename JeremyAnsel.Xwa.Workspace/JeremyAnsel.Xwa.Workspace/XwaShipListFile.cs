@@ -17,7 +17,7 @@ namespace JeremyAnsel.Xwa.Workspace
         {
             using (var file = new StreamReader(path, _encoding))
             {
-                string line;
+                string? line;
 
                 while ((line = file.ReadLine()) != null)
                 {

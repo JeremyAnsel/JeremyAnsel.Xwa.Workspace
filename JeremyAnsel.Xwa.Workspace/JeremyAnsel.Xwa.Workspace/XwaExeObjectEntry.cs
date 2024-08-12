@@ -9,7 +9,7 @@
             this.DataIndex1 = -1;
         }
 
-        public XwaExeObjectEntry(byte[] bytes)
+        public XwaExeObjectEntry(byte[]? bytes)
         {
             if (bytes == null)
             {

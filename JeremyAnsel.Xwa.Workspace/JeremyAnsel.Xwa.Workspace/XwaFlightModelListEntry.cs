@@ -4,7 +4,7 @@
     {
         public const int ValueMaxLength = 255;
 
-        private string _value;
+        private string _value = string.Empty;
 
         public string Value
         {
@@ -15,7 +15,7 @@
 
             set
             {
-                _value = value?.Substring(0, Math.Min(value.Length, ValueMaxLength));
+                _value = value[..Math.Min(value.Length, ValueMaxLength)];
             }
         }
 

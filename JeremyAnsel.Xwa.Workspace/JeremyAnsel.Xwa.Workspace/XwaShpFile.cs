@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.IO;
 using System.Text;
 
 namespace JeremyAnsel.Xwa.Workspace
@@ -11,36 +12,46 @@ namespace JeremyAnsel.Xwa.Workspace
         {
         }
 
-        public XwaShpFile(string path)
+        public XwaShpFile(string? path)
         {
+            if (path == null)
+            {
+                throw new ArgumentNullException(nameof(path));
+            }
+
             using (var filestream = new FileStream(path, FileMode.Open, FileAccess.Read))
             {
                 this.Read(filestream);
             }
         }
 
-        public XwaShpFile(Stream stream)
+        public XwaShpFile(Stream? stream)
         {
+            if (stream == null)
+            {
+                throw new ArgumentNullException(nameof(stream));
+            }
+
             this.Read(stream);
         }
 
         public byte ObjectIndex { get; set; }
 
-        public string OptFile { get; set; }
+        public string OptFile { get; set; } = string.Empty;
 
-        public string CraftPluralName { get; set; }
+        public string CraftPluralName { get; set; } = string.Empty;
 
-        public string CraftName { get; set; }
+        public string CraftName { get; set; } = string.Empty;
 
-        public string CraftLongName { get; set; }
+        public string CraftLongName { get; set; } = string.Empty;
 
-        public string Manufacturer { get; set; }
+        public string Manufacturer { get; set; } = string.Empty;
 
-        public string Side { get; set; }
+        public string Side { get; set; } = string.Empty;
 
-        public string Crew { get; set; }
+        public string Crew { get; set; } = string.Empty;
 
-        public string Description { get; set; }
+        public string Description { get; set; } = string.Empty;
 
         public XwaShipCategory ShipCategory { get; set; }
 
@@ -48,77 +59,32 @@ namespace JeremyAnsel.Xwa.Workspace
         {
             get
             {
-                switch (this.ShipCategory)
+                return this.ShipCategory switch
                 {
-                    case XwaShipCategory.Starfighter:
-                        return XwaShipListCraftType.Fighter;
-
-                    case XwaShipCategory.Transport:
-                        return XwaShipListCraftType.LightTransport;
-
-                    case XwaShipCategory.UtilityVehicle:
-                        return XwaShipListCraftType.UtilityCraft;
-
-                    case XwaShipCategory.Freighter:
-                        return XwaShipListCraftType.HeavyTransport;
-
-                    case XwaShipCategory.Starship:
-                        return XwaShipListCraftType.Starship;
-
-                    case XwaShipCategory.Platform:
-                        return XwaShipListCraftType.Station;
-
-                    case XwaShipCategory.PlayerProjectile:
-                        return XwaShipListCraftType.Unknown;
-
-                    case XwaShipCategory.OtherProjectile:
-                        return XwaShipListCraftType.Unknown;
-
-                    case XwaShipCategory.Mine:
-                        return XwaShipListCraftType.Mine;
-
-                    case XwaShipCategory.Satellite:
-                        return XwaShipListCraftType.Satellite;
-
-                    case XwaShipCategory.NormalDebris:
-                        return XwaShipListCraftType.Unknown;
-
-                    case XwaShipCategory.SmallDebris:
-                        return XwaShipListCraftType.Unknown;
-
-                    case XwaShipCategory.Backdrop:
-                        return XwaShipListCraftType.Planet;
-
-                    case XwaShipCategory.Explosion:
-                        return XwaShipListCraftType.Unknown;
-
-                    case XwaShipCategory.Obstacle:
-                        return XwaShipListCraftType.Unknown;
-
-                    case XwaShipCategory.DeathStarII:
-                        return XwaShipListCraftType.Unknown;
-
-                    case XwaShipCategory.People:
-                        return XwaShipListCraftType.Droid;
-
-                    case XwaShipCategory.Container:
-                        return XwaShipListCraftType.Container;
-
-                    case XwaShipCategory.Droid:
-                        return XwaShipListCraftType.Droid;
-
-                    case XwaShipCategory.Armament:
-                        return XwaShipListCraftType.WeaponEmplacement;
-
-                    case XwaShipCategory.LargeDebris:
-                        return XwaShipListCraftType.Unknown;
-
-                    case XwaShipCategory.SalvageYard:
-                        return XwaShipListCraftType.Unknown;
-
-                    default:
-                        return XwaShipListCraftType.Unknown;
-                }
+                    XwaShipCategory.Starfighter => XwaShipListCraftType.Fighter,
+                    XwaShipCategory.Transport => XwaShipListCraftType.LightTransport,
+                    XwaShipCategory.UtilityVehicle => XwaShipListCraftType.UtilityCraft,
+                    XwaShipCategory.Freighter => XwaShipListCraftType.HeavyTransport,
+                    XwaShipCategory.Starship => XwaShipListCraftType.Starship,
+                    XwaShipCategory.Platform => XwaShipListCraftType.Station,
+                    XwaShipCategory.PlayerProjectile => XwaShipListCraftType.Unknown,
+                    XwaShipCategory.OtherProjectile => XwaShipListCraftType.Unknown,
+                    XwaShipCategory.Mine => XwaShipListCraftType.Mine,
+                    XwaShipCategory.Satellite => XwaShipListCraftType.Satellite,
+                    XwaShipCategory.NormalDebris => XwaShipListCraftType.Unknown,
+                    XwaShipCategory.SmallDebris => XwaShipListCraftType.Unknown,
+                    XwaShipCategory.Backdrop => XwaShipListCraftType.Planet,
+                    XwaShipCategory.Explosion => XwaShipListCraftType.Unknown,
+                    XwaShipCategory.Obstacle => XwaShipListCraftType.Unknown,
+                    XwaShipCategory.DeathStarII => XwaShipListCraftType.Unknown,
+                    XwaShipCategory.People => XwaShipListCraftType.Droid,
+                    XwaShipCategory.Container => XwaShipListCraftType.Container,
+                    XwaShipCategory.Droid => XwaShipListCraftType.Droid,
+                    XwaShipCategory.Armament => XwaShipListCraftType.WeaponEmplacement,
+                    XwaShipCategory.LargeDebris => XwaShipListCraftType.Unknown,
+                    XwaShipCategory.SalvageYard => XwaShipListCraftType.Unknown,
+                    _ => XwaShipListCraftType.Unknown,
+                };
             }
         }
 
@@ -126,90 +92,50 @@ namespace JeremyAnsel.Xwa.Workspace
         {
             get
             {
-                switch (this.ShipCategory)
+                return this.ShipCategory switch
                 {
-                    case XwaShipCategory.Starfighter:
-                        return XwaObjectCategory.Craft;
-
-                    case XwaShipCategory.Transport:
-                        return XwaObjectCategory.Craft;
-
-                    case XwaShipCategory.UtilityVehicle:
-                        return XwaObjectCategory.Craft;
-
-                    case XwaShipCategory.Freighter:
-                        return XwaObjectCategory.Craft;
-
-                    case XwaShipCategory.Starship:
-                        return XwaObjectCategory.Craft;
-
-                    case XwaShipCategory.Platform:
-                        return XwaObjectCategory.Craft;
-
-                    case XwaShipCategory.PlayerProjectile:
-                        return XwaObjectCategory.Weapon;
-
-                    case XwaShipCategory.OtherProjectile:
-                        return XwaObjectCategory.Weapon;
-
-                    case XwaShipCategory.Mine:
-                        return XwaObjectCategory.Weapon;
-
-                    case XwaShipCategory.Satellite:
-                        return XwaObjectCategory.Satellite;
-
-                    case XwaShipCategory.NormalDebris:
-                        return XwaObjectCategory.Debris;
-
-                    case XwaShipCategory.SmallDebris:
-                        return XwaObjectCategory.Debris;
-
-                    case XwaShipCategory.Backdrop:
-                        return XwaObjectCategory.Backdrop;
-
-                    case XwaShipCategory.Explosion:
-                        return XwaObjectCategory.Explosion;
-
-                    case XwaShipCategory.Obstacle:
-                        return XwaObjectCategory.Debris;
-
-                    case XwaShipCategory.DeathStarII:
-                        return XwaObjectCategory.Debris;
-
-                    case XwaShipCategory.People:
-                        return XwaObjectCategory.Craft;
-
-                    case XwaShipCategory.Container:
-                        return XwaObjectCategory.Craft;
-
-                    case XwaShipCategory.Droid:
-                        return XwaObjectCategory.Craft;
-
-                    case XwaShipCategory.Armament:
-                        return XwaObjectCategory.Weapon;
-
-                    case XwaShipCategory.LargeDebris:
-                        return XwaObjectCategory.Debris;
-
-                    case XwaShipCategory.SalvageYard:
-                        return XwaObjectCategory.Debris;
-
-                    default:
-                        return XwaObjectCategory.Craft;
-                }
+                    XwaShipCategory.Starfighter => XwaObjectCategory.Craft,
+                    XwaShipCategory.Transport => XwaObjectCategory.Craft,
+                    XwaShipCategory.UtilityVehicle => XwaObjectCategory.Craft,
+                    XwaShipCategory.Freighter => XwaObjectCategory.Craft,
+                    XwaShipCategory.Starship => XwaObjectCategory.Craft,
+                    XwaShipCategory.Platform => XwaObjectCategory.Craft,
+                    XwaShipCategory.PlayerProjectile => XwaObjectCategory.Weapon,
+                    XwaShipCategory.OtherProjectile => XwaObjectCategory.Weapon,
+                    XwaShipCategory.Mine => XwaObjectCategory.Weapon,
+                    XwaShipCategory.Satellite => XwaObjectCategory.Satellite,
+                    XwaShipCategory.NormalDebris => XwaObjectCategory.Debris,
+                    XwaShipCategory.SmallDebris => XwaObjectCategory.Debris,
+                    XwaShipCategory.Backdrop => XwaObjectCategory.Backdrop,
+                    XwaShipCategory.Explosion => XwaObjectCategory.Explosion,
+                    XwaShipCategory.Obstacle => XwaObjectCategory.Debris,
+                    XwaShipCategory.DeathStarII => XwaObjectCategory.Debris,
+                    XwaShipCategory.People => XwaObjectCategory.Craft,
+                    XwaShipCategory.Container => XwaObjectCategory.Craft,
+                    XwaShipCategory.Droid => XwaObjectCategory.Craft,
+                    XwaShipCategory.Armament => XwaObjectCategory.Weapon,
+                    XwaShipCategory.LargeDebris => XwaObjectCategory.Debris,
+                    XwaShipCategory.SalvageYard => XwaObjectCategory.Debris,
+                    _ => XwaObjectCategory.Craft,
+                };
             }
         }
 
-        public string CraftShortName { get; set; }
+        public string CraftShortName { get; set; } = string.Empty;
 
         public XwaShipListFlyableOption Flyable { get; set; }
 
         public XwaExeObjectGameOptions ObjectGameOptions { get; set; }
 
-        public XwaExeCraftEntry Craft { get; set; }
+        public XwaExeCraftEntry Craft { get; set; } = new();
 
-        private void Read(Stream stream)
+        private void Read(Stream? stream)
         {
+            if (stream == null)
+            {
+                throw new ArgumentNullException(nameof(stream));
+            }
+
             if (ReadLine(stream) != "[Specs]")
             {
                 throw new InvalidDataException("\"[Specs]\" not found");
@@ -254,16 +180,26 @@ namespace JeremyAnsel.Xwa.Workspace
             this.Craft = new XwaExeCraftEntry(craftBytes);
         }
 
-        public void Write(string path)
+        public void Write(string? path)
         {
+            if (path == null)
+            {
+                throw new ArgumentNullException(nameof(path));
+            }
+
             using (var filestream = new FileStream(path, FileMode.Create, FileAccess.Write))
             {
                 this.Write(filestream);
             }
         }
 
-        public void Write(Stream stream)
+        public void Write(Stream? stream)
         {
+            if (stream == null)
+            {
+                throw new ArgumentNullException(nameof(stream));
+            }
+
             WriteLine(stream, "[Specs]");
             WriteLine(stream, "MXvTED craft file V1.7");
             stream.WriteByte(this.ObjectIndex);

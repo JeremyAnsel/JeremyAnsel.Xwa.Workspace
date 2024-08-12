@@ -6,7 +6,7 @@ namespace JeremyAnsel.Xwa.Workspace
     {
         public const int CraftNameMaxLength = 63;
 
-        private string craftName;
+        private string craftName = string.Empty;
 
         public string CraftName
         {
@@ -17,7 +17,7 @@ namespace JeremyAnsel.Xwa.Workspace
 
             set
             {
-                craftName = value?.Substring(0, Math.Min(value.Length, CraftNameMaxLength));
+                craftName = value[..Math.Min(value.Length, CraftNameMaxLength)];
             }
         }
 

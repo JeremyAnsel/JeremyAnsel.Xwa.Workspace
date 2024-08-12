@@ -26,6 +26,11 @@ namespace JeremyAnsel.Xwa.Workspace
 
         public XwaWorkspace(string path)
         {
+            if (path == null)
+            {
+                throw new ArgumentNullException(nameof(path));
+            }
+
             string exePath = Path.Combine(path, ExeName);
             XwaExeVersion.Match(exePath);
             this.WorkingDirectory = path;
@@ -69,6 +74,11 @@ namespace JeremyAnsel.Xwa.Workspace
 
         public void Write(string path)
         {
+            if (path == null)
+            {
+                throw new ArgumentNullException(nameof(path));
+            }
+
             string exePath = Path.Combine(path, ExeName);
             XwaExeVersion.Match(exePath);
             Directory.CreateDirectory(Path.Combine(path, FlightModelDirectory));
@@ -118,7 +128,7 @@ namespace JeremyAnsel.Xwa.Workspace
                 return string.Empty;
             }
 
-            XwaFlightModelListEntry entry = dataIndex1 switch
+            XwaFlightModelListEntry? entry = dataIndex1 switch
             {
                 0 => FlightModelSpacecraftFile.Entries.ElementAtOrDefault(dataIndex2),
                 1 => FlightModelEquipmentFile.Entries.ElementAtOrDefault(dataIndex2),
@@ -128,7 +138,7 @@ namespace JeremyAnsel.Xwa.Workspace
             return entry != null ? Path.GetFileNameWithoutExtension(entry.Value) : (dataIndex1 + ", " + dataIndex2);
         }
 
-        public void InstallShpFile(XwaShpFile shp, int speciesIndex, int objectIndex, int craftIndex)
+        public void InstallShpFile(XwaShpFile? shp, int speciesIndex, int objectIndex, int craftIndex)
         {
             if (shp == null)
             {

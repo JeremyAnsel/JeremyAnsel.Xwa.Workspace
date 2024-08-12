@@ -2,9 +2,9 @@
 {
     public sealed class XwaCraftPluralNameEntry
     {
-        public string Key { get; set; }
+        public string Key { get; set; } = string.Empty;
 
-        public string CraftPluralName { get; set; }
+        public string CraftPluralName { get; set; } = string.Empty;
 
         public override string ToString()
         {

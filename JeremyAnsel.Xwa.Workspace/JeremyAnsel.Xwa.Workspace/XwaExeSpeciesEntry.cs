@@ -8,7 +8,7 @@
         {
         }
 
-        public XwaExeSpeciesEntry(byte[] bytes)
+        public XwaExeSpeciesEntry(byte[]? bytes)
         {
             if (bytes == null)
             {
