@@ -654,13 +654,13 @@ references:
   nameWithType: XwaExeCraftEntry.XwaExeCraftEntry()
   nameWithType.vb: XwaExeCraftEntry.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.#ctor(System.Byte[])
-  name: XwaExeCraftEntry(byte[])
+  name: XwaExeCraftEntry(byte[]?)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeCraftEntry__ctor_System_Byte___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.#ctor(System.Byte[])
   name.vb: New(Byte())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.XwaExeCraftEntry(byte[])
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.XwaExeCraftEntry(byte[]?)
   fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.New(Byte())
-  nameWithType: XwaExeCraftEntry.XwaExeCraftEntry(byte[])
+  nameWithType: XwaExeCraftEntry.XwaExeCraftEntry(byte[]?)
   nameWithType.vb: XwaExeCraftEntry.New(Byte())
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.#ctor*
   name: XwaExeCraftEntry
@@ -1640,13 +1640,13 @@ references:
   nameWithType: XwaExeObjectEntry.XwaExeObjectEntry()
   nameWithType.vb: XwaExeObjectEntry.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.#ctor(System.Byte[])
-  name: XwaExeObjectEntry(byte[])
+  name: XwaExeObjectEntry(byte[]?)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeObjectEntry__ctor_System_Byte___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.#ctor(System.Byte[])
   name.vb: New(Byte())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.XwaExeObjectEntry(byte[])
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.XwaExeObjectEntry(byte[]?)
   fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.New(Byte())
-  nameWithType: XwaExeObjectEntry.XwaExeObjectEntry(byte[])
+  nameWithType: XwaExeObjectEntry.XwaExeObjectEntry(byte[]?)
   nameWithType.vb: XwaExeObjectEntry.New(Byte())
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.#ctor*
   name: XwaExeObjectEntry
@@ -2053,13 +2053,13 @@ references:
   nameWithType: XwaExeSpeciesEntry.XwaExeSpeciesEntry()
   nameWithType.vb: XwaExeSpeciesEntry.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.#ctor(System.Byte[])
-  name: XwaExeSpeciesEntry(byte[])
+  name: XwaExeSpeciesEntry(byte[]?)
   href: api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html#JeremyAnsel_Xwa_Workspace_XwaExeSpeciesEntry__ctor_System_Byte___
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.#ctor(System.Byte[])
   name.vb: New(Byte())
-  fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.XwaExeSpeciesEntry(byte[])
+  fullName: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.XwaExeSpeciesEntry(byte[]?)
   fullName.vb: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.New(Byte())
-  nameWithType: XwaExeSpeciesEntry.XwaExeSpeciesEntry(byte[])
+  nameWithType: XwaExeSpeciesEntry.XwaExeSpeciesEntry(byte[]?)
   nameWithType.vb: XwaExeSpeciesEntry.New(Byte())
 - uid: JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.#ctor*
   name: XwaExeSpeciesEntry
@@ -3309,22 +3309,22 @@ references:
   nameWithType: XwaShpFile.XwaShpFile()
   nameWithType.vb: XwaShpFile.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(System.IO.Stream)
-  name: XwaShpFile(Stream)
+  name: XwaShpFile(Stream?)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile__ctor_System_IO_Stream_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(System.IO.Stream)
   name.vb: New(Stream)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile(System.IO.Stream)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile(System.IO.Stream?)
   fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShpFile.New(System.IO.Stream)
-  nameWithType: XwaShpFile.XwaShpFile(Stream)
+  nameWithType: XwaShpFile.XwaShpFile(Stream?)
   nameWithType.vb: XwaShpFile.New(Stream)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(System.String)
-  name: XwaShpFile(string)
+  name: XwaShpFile(string?)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor(System.String)
   name.vb: New(String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile(string)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.XwaShpFile(string?)
   fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShpFile.New(String)
-  nameWithType: XwaShpFile.XwaShpFile(string)
+  nameWithType: XwaShpFile.XwaShpFile(string?)
   nameWithType.vb: XwaShpFile.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.#ctor*
   name: XwaShpFile
@@ -3545,19 +3545,22 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Side
   nameWithType: XwaShpFile.Side
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.IO.Stream)
-  name: Write(Stream)
+  name: Write(Stream?)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile_Write_System_IO_Stream_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.IO.Stream)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.IO.Stream)
-  nameWithType: XwaShpFile.Write(Stream)
+  name.vb: Write(Stream)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.IO.Stream?)
+  fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.IO.Stream)
+  nameWithType: XwaShpFile.Write(Stream?)
+  nameWithType.vb: XwaShpFile.Write(Stream)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.String)
-  name: Write(string)
+  name: Write(string?)
   href: api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html#JeremyAnsel_Xwa_Workspace_XwaShpFile_Write_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(System.String)
   name.vb: Write(String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(string)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(string?)
   fullName.vb: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write(String)
-  nameWithType: XwaShpFile.Write(string)
+  nameWithType: XwaShpFile.Write(string?)
   nameWithType.vb: XwaShpFile.Write(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaShpFile.Write*
   name: Write
@@ -3696,13 +3699,13 @@ references:
   nameWithType: XwaSpecDescFile.XwaSpecDescFile()
   nameWithType.vb: XwaSpecDescFile.New()
 - uid: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.#ctor(System.String)
-  name: XwaSpecDescFile(string)
+  name: XwaSpecDescFile(string?)
   href: api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html#JeremyAnsel_Xwa_Workspace_XwaSpecDescFile__ctor_System_String_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.#ctor(System.String)
   name.vb: New(String)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.XwaSpecDescFile(string)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.XwaSpecDescFile(string?)
   fullName.vb: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.New(String)
-  nameWithType: XwaSpecDescFile.XwaSpecDescFile(string)
+  nameWithType: XwaSpecDescFile.XwaSpecDescFile(string?)
   nameWithType.vb: XwaSpecDescFile.New(String)
 - uid: JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.#ctor*
   name: XwaSpecDescFile
@@ -3924,13 +3927,13 @@ references:
   fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.GetModelName
   nameWithType: XwaWorkspace.GetModelName
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile,System.Int32,System.Int32,System.Int32)
-  name: InstallShpFile(XwaShpFile, int, int, int)
+  name: InstallShpFile(XwaShpFile?, int, int, int)
   href: api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html#JeremyAnsel_Xwa_Workspace_XwaWorkspace_InstallShpFile_JeremyAnsel_Xwa_Workspace_XwaShpFile_System_Int32_System_Int32_System_Int32_
   commentId: M:JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile,System.Int32,System.Int32,System.Int32)
   name.vb: InstallShpFile(XwaShpFile, Integer, Integer, Integer)
-  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile, int, int, int)
+  fullName: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile?, int, int, int)
   fullName.vb: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile(JeremyAnsel.Xwa.Workspace.XwaShpFile, Integer, Integer, Integer)
-  nameWithType: XwaWorkspace.InstallShpFile(XwaShpFile, int, int, int)
+  nameWithType: XwaWorkspace.InstallShpFile(XwaShpFile?, int, int, int)
   nameWithType.vb: XwaWorkspace.InstallShpFile(XwaShpFile, Integer, Integer, Integer)
 - uid: JeremyAnsel.Xwa.Workspace.XwaWorkspace.InstallShpFile*
   name: InstallShpFile
