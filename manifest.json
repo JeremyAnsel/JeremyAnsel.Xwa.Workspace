@@ -18,7 +18,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaConvert.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaConvert",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -28,7 +32,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGender.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaCraftGender",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -38,7 +46,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaCraftGenderEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -48,7 +60,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaCraftGenderFile",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -58,7 +74,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -68,7 +88,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaCraftPluralNameFile",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -78,7 +102,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaCraftShortNameEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -88,7 +116,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaCraftShortNameFile",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -98,7 +130,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeCraftEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -108,7 +144,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftLaser.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeCraftLaser",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -118,7 +158,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTable.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeCraftTable",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -128,7 +172,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftTurret.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeCraftTurret",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -138,7 +186,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeCraftWarhead.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeCraftWarhead",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -148,7 +200,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEnableOptions.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeObjectEnableOptions",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -158,7 +214,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeObjectEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -168,7 +228,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectGameOptions.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeObjectGameOptions",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -178,7 +242,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectRessourceOptions.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeObjectRessourceOptions",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -188,7 +256,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeObjectTable.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeObjectTable",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -198,7 +270,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeSpeciesEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -208,7 +284,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeSpeciesTable",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -218,7 +298,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeVersion.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeVersion",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -228,7 +312,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeWeaponEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -238,7 +326,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaExeWeaponTable",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -248,7 +340,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaFlightModelListEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -258,7 +354,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaFlightModelListFile",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -268,7 +368,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaGunConvergence.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaGunConvergence",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -278,7 +382,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaObjectCategory.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaObjectCategory",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -288,7 +396,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipCategory.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaShipCategory",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -298,7 +410,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListCraftType.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaShipListCraftType",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -308,7 +424,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaShipListEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -318,7 +438,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFile.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaShipListFile",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -328,7 +452,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListFlyableOption.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaShipListFlyableOption",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -338,7 +466,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListKnownOption.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaShipListKnownOption",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -348,7 +480,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShipListSkirmishOption.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaShipListSkirmishOption",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -358,7 +494,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaShpFile.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaShpFile",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -368,7 +508,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescEntry.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaSpecDescEntry",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -378,7 +522,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaSpecDescFile.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaSpecDescFile",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -388,7 +536,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.XwaWorkspace.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace.XwaWorkspace",
+      "Summary": null
     },
     {
       "type": "ManagedReference",
@@ -398,7 +550,11 @@
           "relative_path": "api/JeremyAnsel.Xwa.Workspace.html"
         }
       },
-      "version": ""
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "JeremyAnsel.Xwa.Workspace",
+      "Summary": null
     },
     {
       "type": "Conceptual",
