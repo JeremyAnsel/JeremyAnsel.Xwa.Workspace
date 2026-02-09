@@ -220,7 +220,7 @@ namespace JeremyAnsel.Xwa.Workspace
             WriteLine(stream, ((byte)this.ObjectGameOptions).ToString(CultureInfo.InvariantCulture));
             WriteLine(stream, "[Bin]");
             var craftBytes = this.Craft.ToByteArray();
-            stream.Write(craftBytes, 0, XwaExeCraftEntry.EntryLength);
+            stream.Write(craftBytes, 8, XwaExeCraftEntry.EntryLength - 8);
         }
 
         private static string ReadLine(Stream stream)
